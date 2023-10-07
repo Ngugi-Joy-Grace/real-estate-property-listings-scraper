@@ -1,2 +1,7 @@
 .idea
+.env
 Pipfile
+Pipfile.lock
+Manhattan_for_sale_listings.json
+data/property001.json
+scraping_property_lisiting_and_price_history.ipynb
