@@ -63,23 +63,7 @@ def get_zpid(api_key, street, city, state, zip_code=None):
 
 """**Locals & Constants**"""
 
-############
-# OPTIONAL #
-############
 
-# mount drive
-#drive.mount("/content/drive", force_remount=False)
-
-# data location
-#file_dir = "/content/drive/My Drive/Colab Data/input/" # optional
-
-"""# New Section"""
-
-# read in api key file
-#df_api_keys = pd.read_csv(file_dir + "api_keys.csv")
-# get keys
-#api_key = df_api_keys.loc[df_api_keys["API"] == "scrapeak"]["KEY"].iloc[0] # replace this with your own key
-#api_key ='156b46f9-1d41-40b6-8052-62510a6d3327
 api_key ='f8e98c26-5047-44de-a777-c04379a7f6a3'
 
 
@@ -112,9 +96,9 @@ print("Number of columns:", len(df_listings.columns))
 
 
 
-###############################SAVING TO MYSQL##########################################
 
 
+#####################COLLECTING PRICE HISTORY DATA FROM ZILLOW########################################
 
 df = pd.DataFrame() #Initialise a blank dataframe
 #Use count to keep track on how many data fetches are done
@@ -144,9 +128,9 @@ for zpid in df_listings['zpid']:
         df=df._append(df_price_hist)
         count+=1
 
-"""**Download price history data**"""
 
 
+###############################SAVING TO MYSQL##########################################
 
 try:
     mydb = mysql.connector.connect(
