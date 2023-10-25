@@ -1,510 +1,510 @@
-,date,time,price,pricePerSquareFoot,priceChangeRate,event,source,buyerAgent,sellerAgent,showCountyLink,postingIsRental,attributeSource,zpid
-0,2023-10-03,1696291200000.0,1395000.0,1329.0,0.2568790476911267,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '22711162', 'infoString2': 'StreetEasy', 'infoString3': None}",97530281
-1,2011-07-19,1311033600000.0,1109892.0,1057.0,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",97530281
-0,2023-10-03,1696291200000.0,5100000.0,1545.0,0.04081632653061224,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2061338920
-1,2023-06-15,1686787200000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2061338920
-2,2023-05-04,1683158400000.0,4900000.0,1485.0,0.08888888888888889,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2061338920
-3,2023-02-08,1675814400000.0,4500000.0,1364.0,-0.18181818181818182,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2061338920
-4,2022-09-28,1664323200000.0,5500000.0,1667.0,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2061338920
-0,2023-10-03,1696291200000.0,999999.0,1250.0,4.677747748770766,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72537926
-1,2022-07-02,1656720000000.0,,,0.0,Listing removed,Zillow Rental Network_1,,,False,True,"{'infoString1': None, 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}",72537926
-2,2022-06-28,1656374400000.0,5900.0,7.0,0.18,Listed for rent,Zillow Rental Network_1,,,False,True,"{'infoString1': '', 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}",72537926
-3,2021-11-21,1637452800000.0,,,0.0,Listing removed,Zillow Rental Network_1,,,False,True,"{'infoString1': None, 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}",72537926
-4,2021-11-09,1636416000000.0,5000.0,6.0,0.0,Listed for rent,Zillow Rental Network_1,,,False,True,"{'infoString1': '', 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}",72537926
-5,2021-09-01,1630454400000.0,,,0.0,Listing removed,Zillow Rental Network_1,,,False,True,"{'infoString1': None, 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}",72537926
-6,2021-08-23,1629676800000.0,5000.0,6.0,0.0,Listed for rent,Zillow Rental Network_1,,,False,True,"{'infoString1': '', 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}",72537926
-7,2009-11-04,1257292800000.0,176126.0,220.0,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",72537926
-0,2023-10-03,1696291200000.0,600000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244766629
-0,2023-10-03,1696291200000.0,6125000.0,2078.0,-0.02,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2066519547
-1,2023-08-07,1691366400000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2066519547
-2,2023-06-20,1687219200000.0,6250000.0,2120.0,-0.038461538461538464,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2066519547
-3,2023-04-11,1681171200000.0,6500000.0,2205.0,-0.06474820143884892,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2066519547
-4,2022-12-05,1670198400000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2066519547
-5,2022-07-19,1658188800000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2066519547
-6,2022-05-03,1651536000000.0,6950000.0,2358.0,-0.13070669168230145,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2066519547
-7,2022-02-07,1644192000000.0,7995000.0,2712.0,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2066519547
-0,2023-10-03,1696291200000.0,4200000.0,1641,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",145586220
-0,2023-10-03,1696291200000.0,4700000.0,723,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2055186891
-0,2023-10-03,1696291200000.0,300000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2055186892
-0,2023-10-03,1696291200000.0,22000000.0,4400.0,0.8487394957983193,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2143944031
-1,2023-03-14,1678752000000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2143944031
-2,2008-07-02,1214956800000.0,11900000.0,2380.0,0.0,Listing removed,Prudential Real Estate,,,False,False,"{'infoString1': '595368', 'infoString2': 'Prudential Real Estate', 'infoString3': None}",2143944031
-3,2008-06-21,1214006400000.0,11900000.0,2380.0,0.0,Listed for sale,Prudential Real Estate,,,False,False,"{'infoString1': '595368', 'infoString2': 'Prudential Real Estate', 'infoString3': None}",2143944031
-0,2023-10-03,1696291200000.0,1850000.0,1321,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",31540998
-0,2023-10-03,1696291200000.0,8995000.0,2092.0,-0.1005,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",83892487
-1,2023-08-19,1692403200000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",83892487
-2,2023-05-11,1683763200000.0,10000000.0,2326.0,-0.13043478260869565,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",83892487
-3,2023-04-02,1680393600000.0,11500000.0,2674.0,-0.14814814814814814,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",83892487
-4,2009-11-04,1257292800000.0,13500000.0,3140.0,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",83892487
-0,2023-10-03,1696291200000.0,3995000.0,1882,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2055191555
-0,2023-10-03,1696291200000.0,2150000.0,,-0.1022964509394572,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2063171146
-1,2022-12-17,1671235200000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2063171146
-2,2022-05-24,1653350400000.0,2395000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2063171146
-0,2023-10-03,1696291200000.0,1795000.0,,-0.11358024691358025,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '22711148', 'infoString2': 'StreetEasy', 'infoString3': None}",79499004
-1,2008-05-31,1212192000000.0,2025000.0,,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",79499004
-0,2023-10-04,1696377600000.0,2195000.0,2657,0.3549382716049383,Listed for sale,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",96756460
-1,2017-03-01,1488326400000.0,1620000.0,1961,-0.01818181818181818,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",96756460
-2,2016-11-18,1479427200000.0,1650000.0,1998,0.0,Pending sale,Sotheby's International Realty,,,False,False,"{'infoString1': '00110942', 'infoString2': ""Sotheby's International Realty"", 'infoString3': None}",96756460
-3,2016-08-05,1470355200000.0,1650000.0,1998,0.2,Listed for sale,Sotheby's International Realty,,,False,False,"{'infoString1': '00110942', 'infoString2': ""Sotheby's International Realty"", 'infoString3': None}",96756460
-4,2015-03-17,1426550400000.0,1375000.0,1665,0.30952380952380953,Sold,Public Record,,"{'photo': {'url': 'https://photos.zillowstatic.com/h_e/IS6mg52qj2p6400000000000.jpg'}, 'profileUrl': '/profile/Josh-Rubin/', 'name': 'Josh Rubin'}",False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",96756460
-5,2013-07-01,1372636800000.0,1050000.0,1271,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",96756460
-0,2023-10-03,1696291200000.0,3100000.0,1624,0.8175752490810985,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",97524102
-1,2010-04-20,1271721600000.0,1705569.0,893,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",97524102
-0,2023-10-03,1696291200000.0,425000.0,,-0.03189066059225513,Listed for sale,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",244765355
-1,2021-09-13,1631491200000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",244765355
-2,2021-09-03,1630627200000.0,439000.0,,-0.022271714922048998,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244765355
-3,2021-06-22,1624320000000.0,449000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244765355
-4,2021-06-01,1622505600000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",244765355
-5,2021-04-25,1619308800000.0,449000.0,,-0.02178649237472767,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244765355
-6,2021-02-14,1613260800000.0,459000.0,,-0.021321961620469083,Price change,Brown Harris Stevens,,,False,False,"{'infoString1': None, 'infoString2': 'Brown Harris Stevens', 'infoString3': None}",244765355
-7,2020-11-30,1606694400000.0,469000.0,,-0.01263157894736842,Price change,Brown Harris Stevens,,,False,False,"{'infoString1': None, 'infoString2': 'Brown Harris Stevens', 'infoString3': None}",244765355
-8,2020-11-04,1604448000000.0,475000.0,,-0.04040404040404041,Price change,Brown Harris Stevens,,,False,False,"{'infoString1': None, 'infoString2': 'Brown Harris Stevens', 'infoString3': None}",244765355
-9,2020-09-09,1599609600000.0,2194.0,,-0.00045558086560364467,Listing removed,Brown Harris Stevens Residential Sales,,,False,True,"{'infoString1': None, 'infoString2': 'Brown Harris Stevens Residential Sales', 'infoString3': None}",244765355
-10,2020-09-07,1599436800000.0,495000.0,,0.0,Listed for sale,Halstead Real Estate,,,False,False,"{'infoString1': None, 'infoString2': 'Halstead Real Estate', 'infoString3': None}",244765355
-11,2020-08-21,1597968000000.0,2195.0,,-0.024444444444444446,Price change,Halstead Real Estate,,,False,True,"{'infoString1': None, 'infoString2': 'Halstead Real Estate', 'infoString3': None}",244765355
-12,2020-07-21,1595289600000.0,2250.0,,-0.0425531914893617,Price change,Halstead Real Estate,,,False,True,"{'infoString1': None, 'infoString2': 'Halstead Real Estate', 'infoString3': None}",244765355
-13,2020-06-21,1592697600000.0,2350.0,,-0.030927835051546393,Price change,Halstead Real Estate,,,False,True,"{'infoString1': None, 'infoString2': 'Halstead Real Estate', 'infoString3': None}",244765355
-14,2020-05-29,1590710400000.0,2425.0,,-0.028056112224448898,Listed for rent,Halstead Real Estate,,,False,True,"{'infoString1': None, 'infoString2': 'Halstead Real Estate', 'infoString3': None}",244765355
-15,2020-04-01,1585699200000.0,2495.0,,0.0,Listing removed,Halstead Real Estate,,,False,True,"{'infoString1': None, 'infoString2': 'Halstead Real Estate', 'infoString3': None}",244765355
-16,2020-02-28,1582848000000.0,2495.0,,0.0,Listed for rent,Halstead Real Estate,,,False,True,"{'infoString1': None, 'infoString2': 'Halstead Real Estate', 'infoString3': None}",244765355
-0,2023-10-03,1696291200000.0,3695000.0,641,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2055189577
-0,2023-10-04,1696377600000.0,887785.0,,-9.573473594107245e-05,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2056060898
-1,2023-09-07,1694044800000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2056060898
-2,2023-08-22,1692662400000.0,887870.0,,0.008943181818181819,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2056060898
-3,2023-08-10,1691625600000.0,880000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2056060898
-0,2023-10-02,1696204800000.0,4750000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244750174
-0,2023-10-03,1696291200000.0,4000.0,,0.3377926421404682,Listed for rent,Zillow Rentals,,,False,True,"{'infoString1': None, 'infoString2': 'Zillow Rentals', 'infoString3': None}",2113492670
-1,2023-10-02,1696204800000.0,1050000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '10491203189', 'infoString2': 'StreetEasy', 'infoString3': None}",2113492670
-2,2017-09-01,1504224000000.0,2990.0,,0.0,Listing removed,Corcoran,,,False,True,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}",2113492670
-3,2017-08-07,1502064000000.0,2990.0,,-0.011570247933884297,Price change,Corcoran,,,False,True,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}",2113492670
-4,2017-07-14,1499990400000.0,3025.0,,-0.0546875,Price change,Corcoran,,,False,True,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}",2113492670
-5,2017-05-17,1494979200000.0,3200.0,,0.06702234078026009,Listed for rent,Corcoran,,,False,True,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}",2113492670
-6,2015-06-19,1434672000000.0,2999.0,,0.0,Listing removed,Corcoran,,,False,True,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}",2113492670
-7,2015-05-06,1430870400000.0,2999.0,,-0.03258064516129032,Price change,Corcoran,,,False,True,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}",2113492670
-8,2015-04-25,1429920000000.0,3100.0,,0.14814814814814814,Listed for rent,Corcoran,,,False,True,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}",2113492670
-9,2013-04-23,1366675200000.0,2700.0,,0.0,Listing removed,Immac Realty,,,False,True,"{'infoString1': None, 'infoString2': 'Immac Realty', 'infoString3': None}",2113492670
-10,2013-04-05,1365120000000.0,2700.0,,0.0,Listed for rent,Immac Realty,,,False,True,"{'infoString1': None, 'infoString2': 'Immac Realty', 'infoString3': None}",2113492670
-0,2023-10-02,1696204800000.0,4250000.0,,0.16886688668866887,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",119911782
-1,2013-07-11,1373500800000.0,3636000.0,,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",119911782
-0,2023-10-02,1696204800000.0,399000.0,520.0,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244793512
-1,2022-10-10,1665360000000.0,,,0.0,Listing removed,StreetEasy,,,False,True,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",244793512
-2,2022-09-28,1664323200000.0,3100.0,4.0,0.0,Listed for rent,StreetEasy,,,False,True,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244793512
-3,2022-09-16,1663286400000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",244793512
-4,2022-06-15,1655251200000.0,399000.0,520.0,-0.13260869565217392,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244793512
-5,2022-05-14,1652486400000.0,460000.0,599.0,-0.0707070707070707,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244793512
-6,2022-03-31,1648684800000.0,495000.0,645.0,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244793512
-7,2021-12-10,1639094400000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",244793512
-8,2021-11-18,1637193600000.0,495000.0,645.0,11.375,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244793512
-9,2019-04-24,1556064000000.0,40000.0,52.0,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",244793512
-0,2023-10-02,1696204800000.0,1489000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2055202672
-0,2023-10-02,1696204800000.0,6500000.0,3232.0,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",69524580
-1,2023-06-26,1687737600000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",69524580
-2,2023-01-31,1675123200000.0,6500000.0,3232.0,-0.17197452229299362,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",69524580
-3,2022-05-11,1652227200000.0,7850000.0,3904.0,0.40169185099212107,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",69524580
-4,2013-05-09,1368057600000.0,5600375.0,2785.0,-0.6900022683672151,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",69524580
-5,2008-02-22,1203638400000.0,18065858.0,8984.0,1.9287089003232532,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",69524580
-6,2007-09-07,1189123200000.0,6168540.0,3067.0,-0.9145276430649855,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",69524580
-7,2006-09-28,1159401600000.0,72170000.0,35888.0,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",69524580
-0,2023-10-02,1696204800000.0,695000.0,695.0,0.03115727002967359,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72535705
-1,2023-06-23,1687478400000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",72535705
-2,2023-03-28,1679961600000.0,674000.0,674.0,0.03852080123266564,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72535705
-3,2022-12-24,1671840000000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",72535705
-4,2022-10-25,1666656000000.0,649000.0,649.0,-0.037091988130563795,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72535705
-5,2022-09-26,1664150400000.0,674000.0,674.0,-0.0357653791130186,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72535705
-6,2022-08-05,1659657600000.0,699000.0,699.0,0.6447058823529411,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72535705
-7,2007-04-17,1176768000000.0,425000.0,425.0,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",72535705
-0,2023-10-02,1696204800000.0,399000.0,570,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",124845598
-0,2023-10-02,1696204800000.0,6900000.0,,-0.013581129378127233,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2080484098
-1,2023-07-04,1688428800000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2080484098
-2,2023-05-02,1682985600000.0,6995000.0,,-0.02847222222222222,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2080484098
-3,2023-03-15,1678838400000.0,7200000.0,,-0.02636916835699797,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2080484098
-4,2022-08-26,1661472000000.0,7395000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2080484098
-5,2022-06-27,1656288000000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2080484098
-6,2022-05-02,1651449600000.0,7395000.0,,-0.014,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2080484098
-7,2022-03-10,1646870400000.0,7500000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2080484098
-8,2021-04-26,1619395200000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2080484098
-9,2020-03-17,1584403200000.0,7500000.0,,0.0,Listed for sale,Corcoran,,,False,False,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}",2080484098
-0,2023-10-02,1696204800000.0,3495000.0,2835,0.2802197802197802,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",55501233
-1,2013-07-03,1372809600000.0,2730000.0,2214,0.2409090909090909,Sold,Public Record,,"{'photo': {'url': 'https://photos.zillowstatic.com/h_e/IS-1ts4cgpu00ajh.jpg'}, 'profileUrl': '/profile/user964070/', 'name': 'Frank Arends'}",False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",55501233
-2,2013-03-01,1362096000000.0,2200000.0,1784,2.151862464183381,Listed for sale,"Town Residential, LLC",,,False,False,"{'infoString1': None, 'infoString2': 'Town Residential, LLC', 'infoString3': None}",55501233
-3,1999-06-23,930096000000.0,698000.0,566,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",55501233
-0,2023-10-02,1696204800000.0,1250000.0,1136.0,0.0008006405124099279,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72537157
-1,2023-06-08,1686182400000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",72537157
-2,2023-03-29,1680048000000.0,1249000.0,1135.0,-0.03178294573643411,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72537157
-3,2023-03-24,1679616000000.0,1290000.0,1173.0,-0.006928406466512702,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72537157
-4,2022-10-25,1666656000000.0,1299000.0,1181.0,-0.03777777777777778,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72537157
-5,2022-09-16,1663286400000.0,1350000.0,1227.0,-0.03225806451612903,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72537157
-6,2022-07-05,1656979200000.0,1395000.0,1268.0,-0.021052631578947368,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72537157
-7,2022-06-07,1654560000000.0,1425000.0,1295.0,-0.03389830508474576,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72537157
-8,2019-07-04,1562198400000.0,1475000.0,1341.0,0.0,Listing removed,Brown Harris Stevens,,,False,False,"{'infoString1': '19176638', 'infoString2': 'Brown Harris Stevens', 'infoString3': None}",72537157
-9,2019-05-30,1559174400000.0,1475000.0,1341.0,-0.016666666666666666,Price change,Brown Harris Stevens,,,False,False,"{'infoString1': None, 'infoString2': 'Brown Harris Stevens', 'infoString3': None}",72537157
-10,2018-11-08,1541635200000.0,1500000.0,1364.0,0.10294117647058823,Listed for sale,Brown Harris Stevens,,,False,False,"{'infoString1': None, 'infoString2': 'Brown Harris Stevens', 'infoString3': None}",72537157
-11,2015-06-12,1434067200000.0,1360000.0,1236.0,-0.025089605734767026,Sold,Public Record,,"{'photo': None, 'profileUrl': '/profile/Barbara4673/', 'name': 'Barbara'}",False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",72537157
-12,2015-02-07,1423267200000.0,1395000.0,1268.0,0.0,Pending sale,Corcoran,,,False,False,"{'infoString1': '3389939', 'infoString2': 'Corcoran', 'infoString3': None}",72537157
-13,2015-01-14,1421193600000.0,1395000.0,1268.0,0.36764705882352944,Listed for sale,Corcoran,,,False,False,"{'infoString1': '3389939', 'infoString2': 'Corcoran', 'infoString3': None}",72537157
-14,2013-04-12,1365724800000.0,1020000.0,927.0,-0.03773584905660377,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",72537157
-15,2013-01-19,1358553600000.0,1060000.0,964.0,0.0,Pending sale,BHS   BHS/EXCL,,,False,False,"{'infoString1': None, 'infoString2': 'BHS   BHS/EXCL', 'infoString3': None}",72537157
-16,2013-01-04,1357257600000.0,1060000.0,964.0,-0.03636363636363636,Price change,BHS   BHS/EXCL,,,False,False,"{'infoString1': None, 'infoString2': 'BHS   BHS/EXCL', 'infoString3': None}",72537157
-17,2012-10-28,1351382400000.0,1100000.0,1000.0,-0.005514872073049453,Listed for sale,BHSR   BROWN HARRIS STEVENS  REBNY,,,False,False,"{'infoString1': None, 'infoString2': 'BHSR   BROWN HARRIS STEVENS  REBNY', 'infoString3': None}",72537157
-18,2007-07-24,1185235200000.0,1106100.0,1006.0,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",72537157
-0,2023-10-02,1696204800000.0,560000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '1342829296799522769', 'infoString2': 'StreetEasy', 'infoString3': None}",2062357663
-1,2022-07-21,1658361600000.0,,,0.0,Listing removed,StreetEasy,,,False,True,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2062357663
-2,2022-07-17,1658016000000.0,3200.0,,0.0,Listed for rent,StreetEasy,,,False,True,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2062357663
-0,2023-10-02,1696204800000.0,1200000.0,,-0.13978494623655913,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244850499
-1,2018-03-22,1521676800000.0,1395000.0,,0.0,Listing removed,Douglas Elliman,,,False,False,"{'infoString1': '2911421', 'infoString2': 'Douglas Elliman', 'infoString3': None}",244850499
-2,2018-02-09,1518134400000.0,1395000.0,,0.0,Listed for sale,Douglas Elliman,,,False,False,"{'infoString1': '2911421', 'infoString2': 'Douglas Elliman', 'infoString3': None}",244850499
-0,2023-10-02,1696204800000.0,725000.0,906,0.09848484848484848,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72523812
-1,2008-06-28,1214611200000.0,660000.0,825,1.037037037037037,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",72523812
-2,2006-09-28,1159401600000.0,324000.0,405,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",72523812
-0,2023-10-02,1696204800000.0,2995000.0,,51.22956594527667,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",219686205
-1,2016-07-13,1468368000000.0,57343.0,,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",219686205
-0,2023-10-02,1696204800000.0,2350000.0,1747.0,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2100746801
-1,2023-08-25,1692921600000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2100746801
-2,2023-06-29,1687996800000.0,2350000.0,1747.0,-0.09441233140655106,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2100746801
-3,2023-04-21,1682035200000.0,2595000.0,1929.0,0.04008016032064128,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2100746801
-4,2018-12-19,1545177600000.0,2495000.0,1855.0,0.0,Listing removed,Douglas Elliman,,,False,False,"{'infoString1': '2804536', 'infoString2': 'Douglas Elliman', 'infoString3': None}",2100746801
-5,2017-06-20,1497916800000.0,2495000.0,1855.0,0.05496828752642706,Listed for sale,Douglas Elliman,,,False,False,"{'infoString1': '2804536', 'infoString2': 'Douglas Elliman', 'infoString3': None}",2100746801
-6,2017-03-09,1489017600000.0,2365000.0,1758.0,0.0,Listing removed,Douglas Elliman,,,False,False,"{'infoString1': '2520220', 'infoString2': 'Douglas Elliman', 'infoString3': None}",2100746801
-7,2016-09-15,1473897600000.0,2365000.0,1758.0,0.0,Listed for sale,Douglas Elliman,,,False,False,"{'infoString1': '2520220', 'infoString2': 'Douglas Elliman', 'infoString3': None}",2100746801
-8,2016-02-18,1455753600000.0,2365000.0,1758.0,0.0,Listing removed,Douglas Elliman,,,False,False,"{'infoString1': '2255432', 'infoString2': 'Douglas Elliman', 'infoString3': None}",2100746801
-9,2015-10-27,1445904000000.0,2365000.0,1758.0,0.0,Listed for sale,Douglas Elliman,,,False,False,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}",2100746801
-0,2023-10-02,1696204800000.0,18500000.0,2313,-0.07476869217304326,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '22465410', 'infoString2': 'StreetEasy', 'infoString3': None}",31541240
-1,2017-10-10,1507593600000.0,19995000.0,2499,0.0,Listing removed,Warburg Realty,,,False,False,"{'infoString1': '57319TH', 'infoString2': 'Warburg Realty', 'infoString3': None}",31541240
-2,2016-01-21,1453334400000.0,19995000.0,2499,-0.20004000800160032,Price change,Warburg Realty,,,False,False,"{'infoString1': '57319TH', 'infoString2': 'Warburg Realty', 'infoString3': None}",31541240
-3,2015-09-21,1442793600000.0,24995000.0,3124,-0.15271186440677967,Listed for sale,Warburg Realty,,,False,False,"{'infoString1': '57319TH', 'infoString2': 'Warburg Realty', 'infoString3': None}",31541240
-4,2015-02-06,1423180800000.0,29500000.0,3688,0.0,Listing removed,Warburg Realty,,,False,False,"{'infoString1': '10005731920150204', 'infoString2': 'Warburg Realty', 'infoString3': None}",31541240
-5,2015-02-05,1423094400000.0,29500000.0,3688,4.9,Listed for sale,Leslie J. Garfield,,,False,False,"{'infoString1': '10005731920150204', 'infoString2': 'Leslie J. Garfield', 'infoString3': None}",31541240
-6,2006-09-28,1159401600000.0,5000000.0,625,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",31541240
-7,2005-07-26,1122336000000.0,5000000.0,625,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",31541240
-0,2023-10-02,1696204800000.0,6875000.0,,-0.017155110793423873,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '22707548', 'infoString2': 'StreetEasy', 'infoString3': None}",2061289292
-1,2023-09-01,1693526400000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2061289292
-2,2023-08-02,1690934400000.0,6995000.0,,-0.06733333333333333,Price change,StreetEasy,,,False,False,"{'infoString1': '1286138591436513009', 'infoString2': 'StreetEasy', 'infoString3': None}",2061289292
-3,2023-04-10,1681084800000.0,7500000.0,,0.0423905489923558,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '1286138591436513009', 'infoString2': 'StreetEasy', 'infoString3': None}",2061289292
-4,2023-03-20,1679270400000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2061289292
-5,2023-01-09,1673222400000.0,7195000.0,,-0.10006253908692933,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2061289292
-6,2022-12-30,1672358400000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2061289292
-7,2022-09-30,1664496000000.0,7995000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2061289292
-0,2023-10-02,1696204800000.0,795000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244750374
-1,2023-06-30,1688083200000.0,,,0.0,Listing removed,OneKey® MLS,,,False,False,"{'infoString1': 'H6220164', 'infoString2': 'OneKey® MLS', 'infoString3': 'https://photos.zillowstatic.com/fp/4e66a55bd37a412d002fb678e0dbded9-zillow_web_logo_inf_11.jpg'}",244750374
-2,2023-04-27,1682553600000.0,795000.0,,-0.03636363636363636,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244750374
-3,2022-11-10,1668038400000.0,825000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244750374
-0,2023-10-02,1696204800000.0,10995000.0,2911,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '22708424', 'infoString2': 'StreetEasy', 'infoString3': None}",31493791
-1,2017-07-25,1500940800000.0,10995000.0,2911,0.0,Listing removed,Compass,,,False,False,"{'infoString1': 'e173c7a65b4abdf05946d7e80bb0bdffcdb1d666', 'infoString2': 'Compass', 'infoString3': None}",31493791
-2,2017-06-13,1497312000000.0,10995000.0,2911,0.0,Pending sale,Compass,,,False,False,"{'infoString1': 'e173c7a65b4abdf05946d7e80bb0bdffcdb1d666', 'infoString2': 'Compass', 'infoString3': None}",31493791
-3,2017-05-31,1496188800000.0,10995000.0,2911,-0.04391304347826087,Price change,Compass,,,False,False,"{'infoString1': 'e173c7a65b4abdf05946d7e80bb0bdffcdb1d666', 'infoString2': 'Compass', 'infoString3': None}",31493791
-4,2016-10-09,1475971200000.0,11500000.0,3045,-0.4888888888888889,Listed for sale,Douglas Elliman,,,False,False,"{'infoString1': '2544491', 'infoString2': 'Douglas Elliman', 'infoString3': None}",31493791
-5,2015-05-13,1431475200000.0,22500000.0,5957,0.0,Listing removed,Douglas Elliman,,,False,False,"{'infoString1': '2042482', 'infoString2': 'Douglas Elliman', 'infoString3': None}",31493791
-6,2015-02-26,1424908800000.0,22500000.0,5957,0.9565217391304348,Listed for sale,Douglas Elliman,,,False,False,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}",31493791
-7,2013-06-12,1370995200000.0,11500000.0,3045,12.896676398368168,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",31493791
-8,2012-05-22,1337644800000.0,827536.0,219,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",31493791
-9,2012-01-01,1325376000000.0,9000.0,2,0.0,Listing removed,MQ Realty LLC,,,False,True,"{'infoString1': '10809', 'infoString2': 'MQ Realty LLC', 'infoString3': None}",31493791
-10,2011-12-07,1323216000000.0,9000.0,2,0.0,Listed for rent,MQ Realty LLC,,,False,True,"{'infoString1': '10809', 'infoString2': 'MQ Realty LLC', 'infoString3': None}",31493791
-0,2023-10-02,1696204800000.0,4000.0,8.0,0.0,Listed for rent,Zillow Rentals,,,False,True,"{'infoString1': None, 'infoString2': 'Zillow Rentals', 'infoString3': None}",244801842
-1,2022-04-21,1650499200000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",244801842
-2,2022-01-11,1641859200000.0,417000.0,791.0,0.0,Pending sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244801842
-3,2021-10-25,1635120000000.0,417000.0,791.0,-0.06292134831460675,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244801842
-4,2021-10-07,1633564800000.0,445000.0,844.0,-0.043010752688172046,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244801842
-5,2021-08-26,1629936000000.0,465000.0,882.0,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244801842
-0,2023-10-03,1696291200000.0,1735000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2055192359
-0,2023-10-03,1696291200000.0,690000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2055198358
-0,2023-10-03,1696291200000.0,28500000.0,2317.0,0.07547169811320754,Listed for sale,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2073108029
-1,2023-06-19,1687132800000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2073108029
-2,2023-03-31,1680220800000.0,26500000.0,2154.0,0.0,Pending sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2073108029
-3,2023-01-30,1675036800000.0,26500000.0,2154.0,-0.03618839789052555,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2073108029
-4,2022-10-26,1666742400000.0,27495000.0,2235.0,-0.0765743073047859,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2073108029
-5,2022-10-14,1665705600000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2073108029
-6,2022-02-03,1643846400000.0,29775000.0,2421.0,-0.0075,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2073108029
-7,2021-11-17,1637107200000.0,30000000.0,2439.0,0.15384615384615385,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2073108029
-8,2021-10-24,1635033600000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2073108029
-9,2021-05-25,1621900800000.0,26000000.0,2114.0,-0.12605042016806722,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2073108029
-10,2021-03-02,1614643200000.0,29750000.0,2419.0,0.0,Listed for sale,Sotheby's International Realty,,,False,False,"{'infoString1': None, 'infoString2': ""Sotheby's International Realty"", 'infoString3': None}",2073108029
-0,2023-10-01,1696118400000.0,4190000.0,2659.0,0.26015037593984963,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2075689237
-1,2021-07-12,1626048000000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2075689237
-2,2021-04-13,1618272000000.0,3325000.0,2110.0,0.0,Pending sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2075689237
-3,2021-01-18,1610928000000.0,3325000.0,2110.0,0.0,Listed for sale,Reuveni Real Estate LLC,,,False,False,"{'infoString1': None, 'infoString2': 'Reuveni Real Estate LLC', 'infoString3': None}",2075689237
-0,2023-10-01,1696118400000.0,1950000.0,2031,0.8055555555555556,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",79495315
-1,2010-07-08,1278547200000.0,1080000.0,1125,-0.06086956521739131,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",79495315
-2,2010-04-09,1270771200000.0,1150000.0,1198,-0.008620689655172414,Listed for sale,Citi Habitats,,,False,False,"{'infoString1': '642094', 'infoString2': 'Citi Habitats', 'infoString3': None}",79495315
-3,2007-12-01,1196467200000.0,1160000.0,1208,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",79495315
-0,2023-09-30,1696032000000.0,2295000.0,2013,1.4362902147120082,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",80006983
-1,2009-08-20,1250726400000.0,942006.0,826,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",80006983
-0,2023-09-30,1696032000000.0,1300000.0,1300.0,0.08333333333333333,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2060251316
-1,2023-03-29,1680048000000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2060251316
-2,2023-02-04,1675468800000.0,1200000.0,1200.0,0.0,Pending sale,StreetEasy,,,False,False,"{'infoString1': '1216727014383567457', 'infoString2': 'StreetEasy', 'infoString3': None}",2060251316
-3,2023-01-04,1672790400000.0,1200000.0,1200.0,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2060251316
-0,2023-09-28,1695859200000.0,849999.0,1133,-0.017342196531791906,Listed for sale,OneKey® MLS,,,False,False,"{'infoString1': 'H6271151', 'infoString2': 'OneKey® MLS', 'infoString3': 'https://photos.zillowstatic.com/fp/4e66a55bd37a412d002fb678e0dbded9-zillow_web_logo_inf_11.jpg'}",244728288
-1,2018-06-22,1529625600000.0,865000.0,1153,0.0,Listing removed,Warburg Realty,,,False,False,"{'infoString1': None, 'infoString2': 'Warburg Realty', 'infoString3': None}",244728288
-2,2018-04-19,1524096000000.0,865000.0,1153,0.0,Pending sale,Warburg Realty,,,False,False,"{'infoString1': None, 'infoString2': 'Warburg Realty', 'infoString3': None}",244728288
-3,2018-03-20,1521504000000.0,865000.0,1153,-0.011428571428571429,Price change,Warburg Realty,,,False,False,"{'infoString1': None, 'infoString2': 'Warburg Realty', 'infoString3': None}",244728288
-4,2018-02-09,1518134400000.0,875000.0,1167,0.0,Listed for sale,Warburg Realty,,,False,False,"{'infoString1': None, 'infoString2': 'Warburg Realty', 'infoString3': None}",244728288
-0,2023-09-29,1695945600000.0,1250000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",119918973
-0,2023-09-29,1695945600000.0,1950000.0,813,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2055224702
-0,2023-09-29,1695945600000.0,1950000.0,367.0,0.0,Listed for sale,OneKey® MLS,,,False,False,"{'infoString1': 'H6271389', 'infoString2': 'OneKey® MLS', 'infoString3': 'https://photos.zillowstatic.com/fp/4e66a55bd37a412d002fb678e0dbded9-zillow_web_logo_inf_11.jpg'}",2083565774
-1,2023-09-28,1695859200000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2083565774
-2,2023-08-03,1691020800000.0,1950000.0,367.0,0.0,Pending sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2083565774
-3,2023-07-12,1689120000000.0,1950000.0,367.0,-0.07142857142857142,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2083565774
-4,2023-06-22,1687392000000.0,2100000.0,395.0,-0.08695652173913043,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2083565774
-5,2023-05-30,1685404800000.0,2300000.0,433.0,0.2777777777777778,Listed for sale,Owner,,,False,False,"{'infoString1': '', 'infoString2': 'Owner', 'infoString3': None}",2083565774
-6,2022-10-23,1666483200000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2083565774
-7,2022-09-07,1662508800000.0,1800000.0,339.0,-0.18181818181818182,Price change,StreetEasy,,,False,False,"{'infoString1': '21923675', 'infoString2': 'StreetEasy', 'infoString3': None}",2083565774
-8,2022-08-04,1659571200000.0,2200000.0,414.0,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '21923675', 'infoString2': 'StreetEasy', 'infoString3': None}",2083565774
-9,2019-07-16,1563235200000.0,1600.0,0.0,0.0,Listing removed,PLUSH REALTY Inc,,,False,True,"{'infoString1': None, 'infoString2': 'PLUSH REALTY Inc', 'infoString3': None}",2083565774
-10,2019-07-14,1563062400000.0,1600.0,0.0,0.0,Listed for rent,PLUSH REALTY Inc,,,False,True,"{'infoString1': None, 'infoString2': 'PLUSH REALTY Inc', 'infoString3': None}",2083565774
-0,2023-09-29,1695945600000.0,449000.0,998,0.3606060606060606,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",92961844
-1,2010-07-14,1279065600000.0,330000.0,733,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",92961844
-0,2023-09-29,1695945600000.0,519900.0,945,0.2568383950954535,Listed for sale,OneKey® MLS,,,False,False,"{'infoString1': 'H6271378', 'infoString2': 'OneKey® MLS', 'infoString3': 'https://photos.zillowstatic.com/fp/4e66a55bd37a412d002fb678e0dbded9-zillow_web_logo_inf_11.jpg'}",31546574
-1,2019-11-14,1573689600000.0,413657.0,752,0.0,Listing removed,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-2,2019-11-13,1573603200000.0,413657.0,752,-0.00016919369535950036,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-3,2019-11-10,1573344000000.0,413727.0,752,0.0009556482440265937,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-4,2019-11-07,1573084800000.0,413332.0,752,0.0010050445973403856,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-5,2019-11-04,1572825600000.0,412917.0,751,0.01099339661677607,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-6,2019-10-30,1572393600000.0,408427.0,743,-0.0007144272715484233,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-7,2019-10-29,1572307200000.0,408719.0,743,-9.541097666590011e-05,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-8,2019-10-27,1572134400000.0,408758.0,743,-0.0009507585293305341,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-9,2019-10-26,1572048000000.0,409147.0,744,0.0013681263277433504,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-10,2019-10-23,1571788800000.0,408588.0,743,0.0009039265688270267,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-11,2019-10-21,1571616000000.0,408219.0,742,0.0039200737780510295,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-12,2019-10-17,1571270400000.0,406625.0,739,-0.005921079973694955,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-13,2019-10-11,1570752000000.0,409047.0,744,-0.002548208694634375,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-14,2019-10-09,1570579200000.0,410092.0,746,-0.002396144761200456,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-15,2019-10-07,1570406400000.0,411077.0,747,-0.0009429720632374564,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-16,2019-10-05,1570233600000.0,411465.0,748,-0.0072933353920982035,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-17,2019-09-28,1569628800000.0,414488.0,754,0.00047551117451260106,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-18,2019-09-26,1569456000000.0,414291.0,753,2.8965986690129115e-05,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-19,2019-09-22,1569110400000.0,414279.0,753,0.0021602086185792454,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-20,2019-09-20,1568937600000.0,413386.0,752,0.002130872930641177,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-21,2019-09-18,1568764800000.0,412507.0,750,-0.001215469880801629,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-22,2019-09-17,1568678400000.0,413009.0,751,0.0029091015053021897,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-23,2019-09-11,1568160000000.0,411811.0,749,0.004510174113698343,Price change,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-24,2019-09-07,1567814400000.0,409962.0,745,0.9328074981023728,Listed for sale,Auction.com,,,False,False,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}",31546574
-25,2018-12-07,1544140800000.0,212107.0,386,-0.08966952789699571,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",31546574
-26,2006-09-28,1159401600000.0,233000.0,424,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",31546574
-0,2023-09-29,1695945600000.0,680000.0,1236,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '22691201', 'infoString2': 'StreetEasy', 'infoString3': None}",2055226639
-0,2023-09-29,1695945600000.0,4795000.0,1968,0.2002503128911139,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",219693876
-1,2016-08-18,1471478400000.0,3995000.0,1639,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",219693876
-0,2023-09-29,1695945600000.0,3595000.0,1598,0.5265392781316348,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '22704053', 'infoString2': 'StreetEasy', 'infoString3': None}",324832330
-1,2020-05-29,1590710400000.0,2355000.0,1047,0.0,Sold,Public Record,"{'photo': {'url': 'https://photos.zillowstatic.com/h_e/ISn2chmkoon7qb1000000000.jpg'}, 'profileUrl': '/profile/JoeBonacci1/', 'name': 'Joseph Bonacci'}","{'photo': {'url': 'https://photos.zillowstatic.com/h_e/ISn2chmkoon7qb1000000000.jpg'}, 'profileUrl': '/profile/JoeBonacci1/', 'name': 'Joseph Bonacci'}",False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",324832330
-0,2023-09-29,1695945600000.0,875000.0,,-0.0223463687150838,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244756008
-1,2019-09-16,1568592000000.0,895000.0,,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",244756008
-2,2019-05-14,1557792000000.0,895000.0,,-0.004449388209121246,Pending sale,Corcoran,,,False,False,"{'infoString1': '5638737', 'infoString2': 'Corcoran', 'infoString3': None}",244756008
-3,2019-04-25,1556150400000.0,899000.0,,-0.02810810810810811,Price change,Corcoran,,,False,False,"{'infoString1': '5638737', 'infoString2': 'Corcoran', 'infoString3': None}",244756008
-4,2019-01-22,1548115200000.0,925000.0,,0.0,Listed for sale,Corcoran,,,False,False,"{'infoString1': '5638737', 'infoString2': 'Corcoran', 'infoString3': None}",244756008
-0,2023-09-29,1695945600000.0,1600000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '1410214436344254969', 'infoString2': 'StreetEasy', 'infoString3': None}",2055237800
-0,2023-09-29,1695945600000.0,350000.0,,-0.125,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2079594519
-1,2023-08-25,1692921600000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",2079594519
-2,2023-04-18,1681776000000.0,400000.0,,-0.2,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2079594519
-3,2023-03-28,1679961600000.0,500000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2079594519
-4,2020-12-25,1608854400000.0,1600.0,,0.0,Listing removed,Compass,,,False,True,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",2079594519
-5,2020-12-16,1608076800000.0,1600.0,,-0.23809523809523808,Listed for rent,Compass,,,False,True,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",2079594519
-6,2020-07-28,1595894400000.0,2100.0,,0.0,Listing removed,Compass,,,False,True,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",2079594519
-7,2020-06-29,1593388800000.0,2100.0,,-0.045454545454545456,Price change,Compass,,,False,True,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",2079594519
-8,2020-05-21,1590019200000.0,2200.0,,-0.043478260869565216,Price change,Highline Residential,,,False,True,"{'infoString1': None, 'infoString2': 'Highline Residential', 'infoString3': None}",2079594519
-9,2020-05-15,1589500800000.0,2300.0,,0.0,Listed for rent,Highline Residential,,,False,True,"{'infoString1': None, 'infoString2': 'Highline Residential', 'infoString3': None}",2079594519
-0,2023-09-29,1695945600000.0,785000.0,,0.2076923076923077,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",122143029
-1,2021-02-23,1614038400000.0,650000.0,,0.04,Sold,Public Record,,"{'photo': {'url': 'https://photos.zillowstatic.com/h_e/ISv4rw81sv9wbm0000000000.jpg'}, 'profileUrl': '/profile/Cindy-Scholz/', 'name': 'Cindy Scholz'}",False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",122143029
-2,2020-12-01,1606780800000.0,625000.0,,0.0,Pending sale,Compass,,,False,False,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",122143029
-3,2020-11-17,1605571200000.0,625000.0,,-0.038461538461538464,Price change,Compass,,,False,False,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",122143029
-4,2020-11-16,1605484800000.0,650000.0,,-0.07010014306151645,Price change,Compass,,,False,False,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",122143029
-5,2020-11-06,1604620800000.0,699000.0,,-0.03586206896551724,Price change,Compass,,,False,False,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",122143029
-6,2020-10-07,1602028800000.0,725000.0,,-0.06451612903225806,Price change,Compass,,,False,False,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",122143029
-7,2020-09-14,1600041600000.0,775000.0,,-0.030037546933667083,Price change,Compass,,,False,False,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",122143029
-8,2020-08-30,1598745600000.0,799000.0,,-0.04311377245508982,Price change,Compass,,,False,False,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",122143029
-9,2020-08-10,1597017600000.0,835000.0,,-0.03468208092485549,Price change,Compass,,,False,False,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",122143029
-10,2020-07-15,1594771200000.0,865000.0,,0.02976190476190476,Listed for sale,Compass,,,False,False,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",122143029
-11,2017-12-01,1512086400000.0,840000.0,,-0.02097902097902098,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",122143029
-12,2017-08-11,1502409600000.0,858000.0,,0.0,Pending sale,Brown Harris Stevens,,,False,False,"{'infoString1': '17123356', 'infoString2': 'Brown Harris Stevens', 'infoString3': None}",122143029
-13,2017-07-14,1499990400000.0,858000.0,,0.5888888888888889,Listed for sale,Brown Harris Stevens,,,False,False,"{'infoString1': '17123356', 'infoString2': 'Brown Harris Stevens', 'infoString3': None}",122143029
-14,2014-10-07,1412640000000.0,540000.0,,0.0,Sold,Public Record,"{'photo': {'url': 'https://photos.zillowstatic.com/h_e/IS1jrkdqyjk98e1000000000.jpg'}, 'profileUrl': '/profile/dominiclongcroft/', 'name': 'Dominic Stoddart Longcroft'}","{'photo': {'url': 'https://photos.zillowstatic.com/h_e/IS1jrkdqyjk98e1000000000.jpg'}, 'profileUrl': '/profile/dominiclongcroft/', 'name': 'Dominic Stoddart Longcroft'}",False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",122143029
-0,2023-09-29,1695945600000.0,13200000.0,,0.6157906816616938,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",123579709
-1,2015-04-29,1430265600000.0,8169375.0,,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",123579709
-0,2023-09-29,1695945600000.0,11500000.0,1697.0,0.010717827621107725,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",31535465
-1,2022-08-08,1659916800000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",31535465
-2,2022-01-18,1642464000000.0,11378052.0,1679.0,0.05177038269550749,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",31535465
-3,2021-07-09,1625788800000.0,,,0.0,Listing removed,Douglas Elliman,,,False,False,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': 'https://photos.zillowstatic.com/fp/516348e93397d0c5ef994a809e58da18-zillow_web_logo_inf_11.jpg'}",31535465
-4,2020-10-19,1603065600000.0,10818000.0,1597.0,-0.11941391941391942,Price change,Douglas Elliman,,,False,False,"{'infoString1': '3580522', 'infoString2': 'Douglas Elliman', 'infoString3': None}",31535465
-5,2019-02-20,1550620800000.0,12285000.0,1813.0,-0.10230179028132992,Price change,Douglas Elliman,,,False,False,"{'infoString1': '3580522', 'infoString2': 'Douglas Elliman', 'infoString3': None}",31535465
-6,2018-12-05,1543968000000.0,13685000.0,2020.0,-0.13903743315508021,Listed for sale,Douglas Elliman,,,False,False,"{'infoString1': '3580522', 'infoString2': 'Douglas Elliman', 'infoString3': None}",31535465
-7,2018-12-05,1543968000000.0,40000.0,6.0,0.0,Listing removed,Douglas Elliman,,,False,True,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}",31535465
-8,2018-04-03,1522713600000.0,40000.0,6.0,-0.058823529411764705,Price change,Douglas Elliman,,,False,True,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}",31535465
-9,2018-02-07,1517961600000.0,42500.0,6.0,0.0625,Listed for rent,Douglas Elliman,,,False,True,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}",31535465
-10,2017-10-19,1508371200000.0,40000.0,6.0,0.0,Listing removed,Douglas Elliman,,,False,True,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}",31535465
-11,2017-05-04,1493856000000.0,40000.0,6.0,0.0,Listed for rent,Douglas Elliman,,,False,True,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}",31535465
-12,2016-10-14,1476403200000.0,15895000.0,2346.0,0.0,Listing removed,Douglas Elliman,,,False,False,"{'infoString1': '2088636', 'infoString2': 'Douglas Elliman', 'infoString3': None}",31535465
-13,2016-09-22,1474502400000.0,15895000.0,2346.0,-0.005630278385986863,Listed for sale,Douglas Elliman,,,False,False,"{'infoString1': '2088636', 'infoString2': 'Douglas Elliman', 'infoString3': None}",31535465
-14,2016-04-15,1460678400000.0,15985000.0,2359.0,0.0,Listing removed,Douglas Elliman,,,False,False,"{'infoString1': '2088636', 'infoString2': 'Douglas Elliman', 'infoString3': None}",31535465
-15,2015-10-17,1445040000000.0,15985000.0,2359.0,-0.07333333333333333,Price change,Douglas Elliman,,,False,False,"{'infoString1': '2088636', 'infoString2': 'Douglas Elliman', 'infoString3': None}",31535465
-16,2015-04-18,1429315200000.0,17250000.0,2546.0,0.11290322580645161,Listed for sale,Douglas Elliman,,,False,False,"{'infoString1': '2088636', 'infoString2': 'Douglas Elliman', 'infoString3': None}",31535465
-17,2010-07-01,1277942400000.0,15500000.0,2287.0,1.6282323018228062,Sold,Agent Provided,"{'photo': {'url': 'https://photos.zillowstatic.com/h_e/ISpxy20cru8jmr1000000000.jpg'}, 'profileUrl': '/profile/asalem1/', 'name': 'Alex Salem'}",,False,False,"{'infoString1': None, 'infoString2': None, 'infoString3': None}",31535465
-18,1995-05-26,801446400000.0,5897500.0,870.0,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",31535465
-0,2023-09-29,1695945600000.0,795000.0,994.0,-0.05917159763313609,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72517702
-1,2022-12-13,1670889600000.0,,,0.0,Listing removed,Zillow Rentals,,,False,True,"{'infoString1': None, 'infoString2': 'Zillow Rentals', 'infoString3': None}",72517702
-2,2022-12-09,1670544000000.0,4200.0,5.0,0.0,Listed for rent,Zillow Rentals,,,False,True,"{'infoString1': None, 'infoString2': 'Zillow Rentals', 'infoString3': None}",72517702
-3,2020-01-25,1579910400000.0,4200.0,5.0,0.0,Listing removed,Owner,,,False,True,"{'infoString1': None, 'infoString2': 'Owner', 'infoString3': None}",72517702
-4,2020-01-10,1578614400000.0,4200.0,5.0,0.10526315789473684,Listed for rent,Owner,,,False,True,"{'infoString1': None, 'infoString2': 'Owner', 'infoString3': None}",72517702
-5,2019-09-14,1568419200000.0,3800.0,5.0,0.0,Listing removed,Owner,,,False,True,"{'infoString1': None, 'infoString2': 'Owner', 'infoString3': None}",72517702
-6,2019-09-11,1568160000000.0,3800.0,5.0,0.02702702702702703,Listed for rent,Owner,,,False,True,"{'infoString1': None, 'infoString2': 'Owner', 'infoString3': None}",72517702
-7,2019-01-28,1548633600000.0,845000.0,1056.0,0.0,Listing removed,Compass,,,False,False,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",72517702
-8,2018-10-18,1539820800000.0,845000.0,1056.0,-0.055865921787709494,Listed for sale,Compass,,,False,False,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",72517702
-9,2018-09-05,1536105600000.0,895000.0,1119.0,0.0,Listing removed,Modern Spaces,,,False,False,"{'infoString1': '160079', 'infoString2': 'Modern Spaces', 'infoString3': None}",72517702
-10,2018-07-27,1532649600000.0,895000.0,1119.0,-0.05291005291005291,Price change,Modern Spaces,,,False,False,"{'infoString1': '160079', 'infoString2': 'Modern Spaces', 'infoString3': None}",72517702
-11,2018-06-08,1528416000000.0,945000.0,1181.0,0.11834319526627218,Listed for sale,Modern Spaces,,,False,False,"{'infoString1': '160079', 'infoString2': 'Modern Spaces', 'infoString3': None}",72517702
-12,2017-09-27,1506470400000.0,3700.0,5.0,0.0,Listing removed,Owner,,,False,True,"{'infoString1': None, 'infoString2': 'Owner', 'infoString3': None}",72517702
-13,2017-09-18,1505692800000.0,3700.0,5.0,-0.06329113924050633,Price change,Owner,,,False,True,"{'infoString1': None, 'infoString2': 'Owner', 'infoString3': None}",72517702
-14,2017-09-12,1505174400000.0,3950.0,5.0,-0.05952380952380952,Listed for rent,Owner,,,False,True,"{'infoString1': None, 'infoString2': 'Owner', 'infoString3': None}",72517702
-15,2017-05-05,1493942400000.0,4200.0,5.0,0.0,Listing removed,Cooper Square,,,False,True,"{'infoString1': None, 'infoString2': 'Cooper Square', 'infoString3': None}",72517702
-16,2017-04-05,1491350400000.0,4200.0,5.0,0.0,Listed for rent,Cooper Square,,,False,True,"{'infoString1': None, 'infoString2': 'Cooper Square', 'infoString3': None}",72517702
-17,2016-02-29,1456704000000.0,845000.0,1056.0,-0.04519774011299435,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",72517702
-18,2015-12-16,1450224000000.0,885000.0,1106.0,0.0,Pending sale,Corcoran,,,False,False,"{'infoString1': '3500148', 'infoString2': 'Corcoran', 'infoString3': None}",72517702
-19,2015-10-14,1444780800000.0,885000.0,1106.0,0.38065522620904835,Listed for sale,Corcoran,,,False,False,"{'infoString1': '3500148', 'infoString2': 'Corcoran', 'infoString3': None}",72517702
-20,2006-09-28,1159401600000.0,641000.0,801.0,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",72517702
-0,2023-09-29,1695945600000.0,2250000.0,1023,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '1410310154127549609', 'infoString2': 'StreetEasy', 'infoString3': None}",244891137
-0,2023-09-29,1695945600000.0,1750000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2055232195
-0,2023-09-29,1695945600000.0,899000.0,1153,1.7201210287443267,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",31525553
-1,1999-07-15,931996800000.0,330500.0,424,0.0,Sold,Agent Provided,,,False,False,"{'infoString1': None, 'infoString2': None, 'infoString3': None}",31525553
-0,2023-09-29,1695945600000.0,3750000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244712798
-0,2023-09-29,1695945600000.0,795000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2055232343
-0,2023-09-29,1695945600000.0,995000.0,847,-0.004004004004004004,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2099010322
-1,2018-06-01,1527811200000.0,999000.0,850,0.0,Sold,Agent Provided,,"{'photo': {'url': 'https://photos.zillowstatic.com/h_e/IS3fsm8r7y52d40000000000.jpg'}, 'profileUrl': '/profile/Sofiasnewyorkcity/', 'name': 'Sofia Corradini'}",False,False,"{'infoString1': None, 'infoString2': None, 'infoString3': None}",2099010322
-2,2018-03-07,1520380800000.0,999000.0,850,0.004020100502512563,Listed for sale,Keller Williams NYC,,,False,False,"{'infoString1': '205490', 'infoString2': 'Keller Williams NYC', 'infoString3': None}",2099010322
-3,2016-06-02,1464825600000.0,995000.0,847,0.0,Listing removed,Corcoran,,,False,False,"{'infoString1': '3687128', 'infoString2': 'Corcoran', 'infoString3': None}",2099010322
-4,2016-04-12,1460419200000.0,995000.0,847,0.0,Listed for sale,Discount Realty Consultants,,,False,False,"{'infoString1': '2843692', 'infoString2': 'Discount Realty Consultants', 'infoString3': None}",2099010322
-0,2023-09-29,1695945600000.0,1750000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244709472
-0,2023-09-29,1695945600000.0,6495000.0,,-0.05801305293691081,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72539555
-1,2023-06-30,1688083200000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",72539555
-2,2023-03-14,1678752000000.0,6895000.0,,-0.028873239436619718,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72539555
-3,2023-01-11,1673395200000.0,7100000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72539555
-4,2022-12-16,1671148800000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",72539555
-5,2022-10-03,1664755200000.0,7100000.0,,-0.04054054054054054,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72539555
-6,2022-03-26,1648252800000.0,7400000.0,,0.2032520325203252,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72539555
-7,2006-09-28,1159401600000.0,6150000.0,,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",72539555
-0,2023-09-29,1695945600000.0,8750000.0,,-0.005681818181818182,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '22667027', 'infoString2': 'StreetEasy', 'infoString3': None}",219685697
-1,2011-07-29,1311897600000.0,8800000.0,,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",219685697
-0,2023-09-29,1695945600000.0,1395000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '22695232', 'infoString2': 'StreetEasy', 'infoString3': None}",244725263
-0,2023-09-30,1696032000000.0,7500000.0,1786,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2055233949
-0,2023-09-29,1695945600000.0,4550000.0,1978,0.46774193548387094,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",119915812
-1,2013-03-26,1364256000000.0,3100000.0,1348,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",119915812
-0,2023-09-29,1695945600000.0,839000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244838287
-0,2023-09-29,1695945600000.0,1100000.0,,5.682623962674508,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72537954
-1,2006-09-28,1159401600000.0,164606.0,,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",72537954
-0,2023-09-29,1695945600000.0,40000000.0,6349,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '22702452', 'infoString2': 'StreetEasy', 'infoString3': None}",2055239728
-0,2023-10-03,1696291200000.0,14500000.0,3772.0,-0.03333333333333333,Listed for sale,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",97521790
-1,2023-06-30,1688083200000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",97521790
-2,2023-02-17,1676592000000.0,15000000.0,3902.0,-0.09090909090909091,Price change,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",97521790
-3,2022-11-16,1668556800000.0,16500000.0,4292.0,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",97521790
-4,2020-02-13,1581552000000.0,30000.0,8.0,0.0,Listing removed,Corcoran,,,False,True,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}",97521790
-5,2020-01-24,1579824000000.0,30000.0,8.0,0.0,Listed for rent,Corcoran,,,False,True,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}",97521790
-0,2023-09-28,1695859200000.0,925000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244753267
-0,2023-09-28,1695859200000.0,1895000.0,1148,13.4106463878327,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",31496142
-1,1993-02-18,729993600000.0,131500.0,80,0.0,Sold,Agent Provided,,,False,False,"{'infoString1': None, 'infoString2': None, 'infoString3': None}",31496142
-0,2023-09-28,1695859200000.0,23500000.0,2244,-0.16071428571428573,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",31533978
-1,2018-11-08,1541635200000.0,28000000.0,2674,0.0,Listing removed,Brown Harris Stevens,,,False,False,"{'infoString1': '18171685', 'infoString2': 'Brown Harris Stevens', 'infoString3': None}",31533978
-2,2018-05-10,1525910400000.0,28000000.0,2674,-0.06666666666666667,Price change,Brown Harris Stevens,,,False,False,"{'infoString1': None, 'infoString2': 'Brown Harris Stevens', 'infoString3': None}",31533978
-3,2018-03-10,1520640000000.0,30000000.0,2865,0.0,Listed for sale,Brown Harris Stevens,,,False,False,"{'infoString1': '18171685', 'infoString2': 'Brown Harris Stevens', 'infoString3': None}",31533978
-4,2018-02-01,1517443200000.0,30000000.0,2865,0.0,Listing removed,Corcoran,,,False,False,"{'infoString1': '3884940', 'infoString2': 'Corcoran', 'infoString3': None}",31533978
-5,2018-01-04,1515024000000.0,30000000.0,2865,-0.07692307692307693,Price change,Corcoran,,,False,False,"{'infoString1': '3884940', 'infoString2': 'Corcoran', 'infoString3': None}",31533978
-6,2017-05-18,1495065600000.0,32500000.0,3103,-0.07142857142857142,Price change,Corcoran,,,False,False,"{'infoString1': '3884940', 'infoString2': 'Corcoran', 'infoString3': None}",31533978
-7,2017-02-03,1486080000000.0,35000000.0,3342,-0.09090909090909091,Listed for sale,Corcoran,,,False,False,"{'infoString1': '3884940', 'infoString2': 'Corcoran', 'infoString3': None}",31533978
-8,2015-06-09,1433808000000.0,38500000.0,3676,0.0,Listing removed,Corcoran,,,False,False,"{'infoString1': '3435212', 'infoString2': 'Corcoran', 'infoString3': None}",31533978
-9,2015-05-28,1432771200000.0,38500000.0,3676,1.75,Listed for sale,Corcoran,,,False,False,"{'infoString1': '3435212', 'infoString2': 'Corcoran', 'infoString3': None}",31533978
-10,2012-10-16,1350345600000.0,14000000.0,1337,13.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",31533978
-11,2012-07-31,1343692800000.0,1000000.0,95,-0.9701492537313433,Listed for sale,NestSeekers International,,,False,False,"{'infoString1': None, 'infoString2': 'NestSeekers International', 'infoString3': None}",31533978
-12,2012-05-11,1336694400000.0,33500000.0,3199,0.0,Listing removed,The Corcoran Group,,,False,False,"{'infoString1': '2319621', 'infoString2': 'The Corcoran Group', 'infoString3': None}",31533978
-13,2012-04-22,1335052800000.0,33500000.0,3199,4.583333333333333,Listed for sale,The Corcoran Group,,,False,False,"{'infoString1': '2319621', 'infoString2': 'The Corcoran Group', 'infoString3': None}",31533978
-14,2000-02-24,951350400000.0,6000000.0,573,-0.5818815331010453,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",31533978
-15,1997-07-10,868492800000.0,14350000.0,1370,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",31533978
-0,2023-09-28,1695859200000.0,2795000.0,,0.693939393939394,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '1410321240024870825', 'infoString2': 'StreetEasy', 'infoString3': None}",72672722
-1,2012-03-23,1332460800000.0,1650000.0,,0.0,Listing removed,The Corcoran Group,,,False,False,"{'infoString1': '2268515', 'infoString2': 'The Corcoran Group', 'infoString3': None}",72672722
-2,2012-02-03,1328227200000.0,1650000.0,,-0.05714285714285714,Price change,The Corcoran Group,,,False,False,"{'infoString1': '2268515', 'infoString2': 'The Corcoran Group', 'infoString3': None}",72672722
-3,2011-12-02,1322784000000.0,1750000.0,,0.032448377581120944,Listed for sale,The Corcoran Group,,,False,False,"{'infoString1': '2268515', 'infoString2': 'The Corcoran Group', 'infoString3': None}",72672722
-4,2010-12-14,1292284800000.0,1695000.0,,0.0,Listing removed,The Corcoran Group,,,False,False,"{'infoString1': '1972751', 'infoString2': 'The Corcoran Group', 'infoString3': None}",72672722
-5,2010-12-05,1291507200000.0,1695000.0,,0.0,Listed for sale,The Corcoran Group,,,False,False,"{'infoString1': '1972751', 'infoString2': 'The Corcoran Group', 'infoString3': None}",72672722
-6,2010-10-12,1286841600000.0,1695000.0,,0.0,Listing removed,The Corcoran Group,,,False,False,"{'infoString1': '1972751', 'infoString2': 'The Corcoran Group', 'infoString3': None}",72672722
-7,2010-09-10,1284076800000.0,1695000.0,,0.7887577367729544,Listed for sale,The Corcoran Group,,,False,False,"{'infoString1': '1972751', 'infoString2': 'The Corcoran Group', 'infoString3': None}",72672722
-8,2007-08-30,1188432000000.0,947585.0,,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",72672722
-0,2023-09-28,1695859200000.0,399000.0,,1.4036144578313252,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '10391200985', 'infoString2': 'StreetEasy', 'infoString3': None}",72518478
-1,2006-09-28,1159401600000.0,166000.0,,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",72518478
-0,2023-09-28,1695859200000.0,1950000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2055242817
-0,2023-09-28,1695859200000.0,2150000.0,1433.0,0.6538461538461539,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '1410272280123791465', 'infoString2': 'StreetEasy', 'infoString3': None}",31495033
-1,2023-08-29,1693267200000.0,,,0.0,Listing removed,Zillow Rentals,,,False,True,"{'infoString1': None, 'infoString2': 'Zillow Rentals', 'infoString3': None}",31495033
-2,2023-08-18,1692316800000.0,9300.0,6.0,-0.010638297872340425,Price change,Zillow Rentals,,,False,True,"{'infoString1': None, 'infoString2': 'Zillow Rentals', 'infoString3': None}",31495033
-3,2023-08-02,1690934400000.0,9400.0,6.0,-0.010526315789473684,Price change,Zillow Rentals,,,False,True,"{'infoString1': None, 'infoString2': 'Zillow Rentals', 'infoString3': None}",31495033
-4,2023-07-25,1690243200000.0,9500.0,6.0,0.061452513966480445,Listed for rent,Zillow Rentals,,,False,True,"{'infoString1': None, 'infoString2': 'Zillow Rentals', 'infoString3': None}",31495033
-5,2022-09-13,1663027200000.0,,,0.0,Listing removed,Zillow Rental Network_1,,,False,True,"{'infoString1': None, 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}",31495033
-6,2022-08-26,1661472000000.0,8950.0,6.0,-0.02717391304347826,Price change,Zillow Rental Network_1,,,False,True,"{'infoString1': '', 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}",31495033
-7,2022-08-11,1660176000000.0,9200.0,6.0,-0.07537688442211055,Price change,Zillow Rental Network_1,,,False,True,"{'infoString1': '', 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}",31495033
-8,2022-07-22,1658448000000.0,9950.0,7.0,-0.05238095238095238,Price change,Zillow Rental Network_1,,,False,True,"{'infoString1': '', 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}",31495033
-9,2022-07-16,1657929600000.0,10500.0,7.0,-0.045454545454545456,Price change,Zillow Rental Network_1,,,False,True,"{'infoString1': '', 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}",31495033
-10,2022-06-22,1655856000000.0,11000.0,7.0,0.4666666666666667,Listed for rent,Zillow Rental Network_1,,,False,True,"{'infoString1': '', 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}",31495033
-11,2021-04-17,1618617600000.0,,,0.0,Listing removed,Douglas Elliman,,,False,True,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': 'https://photos.zillowstatic.com/fp/516348e93397d0c5ef994a809e58da18-zillow_web_logo_inf_11.jpg'}",31495033
-12,2021-03-25,1616630400000.0,7500.0,5.0,-0.05063291139240506,Price change,Douglas Elliman,,,False,True,"{'infoString1': '', 'infoString2': 'Douglas Elliman', 'infoString3': 'https://photos.zillowstatic.com/fp/516348e93397d0c5ef994a809e58da18-zillow_web_logo_inf_11.jpg'}",31495033
-13,2021-03-16,1615852800000.0,7900.0,5.0,0.0,Listed for rent,Douglas Elliman,,,False,True,"{'infoString1': '', 'infoString2': 'Douglas Elliman', 'infoString3': 'https://photos.zillowstatic.com/fp/516348e93397d0c5ef994a809e58da18-zillow_web_logo_inf_11.jpg'}",31495033
-14,2010-05-04,1272931200000.0,1300000.0,867.0,4.383022774327122,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",31495033
-15,1998-08-28,904262400000.0,241500.0,161.0,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",31495033
-0,2023-09-28,1695859200000.0,475000.0,1583,0.11764705882352941,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '1410273940993276657', 'infoString2': 'StreetEasy', 'infoString3': None}",72538076
-1,2020-11-04,1604448000000.0,425000.0,1417,0.0,Listing removed,Compass,,,False,False,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",72538076
-2,2020-09-28,1601251200000.0,425000.0,1417,-0.053452115812917596,Price change,Compass,,,False,False,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",72538076
-3,2020-01-07,1578355200000.0,449000.0,1497,-0.18363636363636363,Listed for sale,Compass,,,False,False,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}",72538076
-4,2018-09-26,1537920000000.0,550000.0,1833,0.0,Listing removed,Halstead Real Estate,,,False,False,"{'infoString1': '18518473', 'infoString2': 'Halstead Real Estate', 'infoString3': None}",72538076
-5,2018-06-13,1528848000000.0,550000.0,1833,0.0,Listed for sale,Halstead Property,,,False,False,"{'infoString1': '18518473', 'infoString2': 'Halstead Property', 'infoString3': None}",72538076
-6,2017-01-25,1485302400000.0,550000.0,1833,0.0,Listing removed,Halstead Property,,,False,False,"{'infoString1': '15026881', 'infoString2': 'Halstead Property', 'infoString3': None}",72538076
-7,2016-06-22,1466553600000.0,550000.0,1833,0.864406779661017,Listed for sale,Halstead Property,,,False,False,"{'infoString1': '15026881', 'infoString2': 'Halstead Property', 'infoString3': None}",72538076
-8,2006-09-28,1159401600000.0,295000.0,983,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",72538076
-0,2023-09-28,1695859200000.0,13950000.0,3402,1.846938775510204,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '1410266402084603833', 'infoString2': 'StreetEasy', 'infoString3': None}",31500494
-1,1999-12-23,945907200000.0,4900000.0,1195,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",31500494
-0,2023-09-28,1695859200000.0,3895000.0,1347,-0.20102564102564102,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '22701418', 'infoString2': 'StreetEasy', 'infoString3': None}",2078414560
-1,2020-11-02,1604275200000.0,14500.0,5,0.0,Listing removed,Douglas Elliman,,,False,True,"{'infoString1': '4459538', 'infoString2': 'Douglas Elliman', 'infoString3': None}",2078414560
-2,2020-09-25,1600992000000.0,14500.0,5,0.0,Listed for rent,Douglas Elliman,,,False,True,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}",2078414560
-3,2020-09-25,1600992000000.0,4875000.0,1686,0.0,Listing removed,Douglas Elliman,,,False,False,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}",2078414560
-4,2020-08-03,1596412800000.0,4875000.0,1686,0.0,Listed for sale,Douglas Elliman,,,False,False,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}",2078414560
-0,2023-09-28,1695859200000.0,650000.0,973.0,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244887775
-1,2023-06-29,1687996800000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",244887775
-2,2023-04-24,1682294400000.0,650000.0,973.0,-0.06474820143884892,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244887775
-3,2023-03-16,1678924800000.0,695000.0,1040.0,-0.041379310344827586,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244887775
-4,2023-02-19,1676764800000.0,725000.0,1085.0,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",244887775
-0,2023-09-28,1695859200000.0,7850000.0,1506.0,0.06802721088435375,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '0000', 'infoString2': 'StreetEasy', 'infoString3': None}",31497240
-1,2023-07-10,1688947200000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",31497240
-2,2023-05-26,1685059200000.0,7350000.0,1410.0,-0.06369426751592357,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",31497240
-3,2023-04-04,1680566400000.0,7850000.0,1506.0,-0.01813633520950594,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",31497240
-4,2023-01-05,1672876800000.0,7995000.0,1534.0,-0.05941176470588235,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",31497240
-5,2022-12-14,1670976000000.0,8500000.0,1631.0,-0.0449438202247191,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",31497240
-6,2022-11-07,1667779200000.0,8900000.0,1707.0,-0.06315789473684211,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",31497240
-7,2022-10-31,1667174400000.0,9500000.0,1822.0,-0.09523809523809523,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",31497240
-8,2022-10-11,1665446400000.0,10500000.0,2014.0,0.06060606060606061,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",31497240
-9,2022-07-28,1658966400000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",31497240
-10,2022-07-11,1657497600000.0,9900000.0,1899.0,-0.05714285714285714,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",31497240
-11,2022-07-01,1656633600000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",31497240
-12,2022-05-09,1652054400000.0,10500000.0,2014.0,-0.08655937364071335,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",31497240
-13,2022-04-08,1649376000000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",31497240
-14,2021-10-15,1634256000000.0,11495000.0,2205.0,-0.042083333333333334,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",31497240
-15,2021-05-10,1620604800000.0,12000000.0,2302.0,1199999.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",31497240
-16,2013-08-14,1376438400000.0,10.0,0.0,-0.999999375,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",31497240
-17,2012-01-22,1327190400000.0,16000000.0,3069.0,0.0,Listing removed,The Corcoran Group,,,False,False,"{'infoString1': '2226524', 'infoString2': 'The Corcoran Group', 'infoString3': None}",31497240
-18,2011-08-07,1312675200000.0,16000000.0,3069.0,5.956521739130435,Listed for sale,The Corcoran Group,,,False,False,"{'infoString1': '2226524', 'infoString2': 'The Corcoran Group', 'infoString3': None}",31497240
-19,2006-09-28,1159401600000.0,2300000.0,441.0,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",31497240
-20,2006-04-21,1145577600000.0,2300000.0,441.0,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",31497240
-0,2023-09-28,1695859200000.0,299000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",2055248712
-0,2023-09-29,1695945600000.0,6500000.0,,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72527862
-1,2023-06-27,1687824000000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",72527862
-2,2023-05-09,1683590400000.0,6500000.0,,-0.10344827586206896,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72527862
-3,2023-04-13,1681344000000.0,7250000.0,,-0.061488673139158574,Price change,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72527862
-4,2023-02-28,1677542400000.0,7725000.0,,0.9807692307692307,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",72527862
-5,2006-09-28,1159401600000.0,3900000.0,,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",72527862
-0,2023-09-28,1695859200000.0,6900000.0,9857.0,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",219668455
-1,2023-07-13,1689206400000.0,,,0.0,Listing removed,StreetEasy,,,False,False,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",219668455
-2,2023-06-06,1686009600000.0,6900000.0,9857.0,16.692307692307693,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",219668455
-3,2015-09-16,1442361600000.0,390000.0,557.0,0.0,Sold,Public Record,,,False,False,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}",219668455
-0,2023-09-28,1695859200000.0,400000.0,667.0,0.0,Listed for sale,StreetEasy,,,False,False,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244783518
-1,2021-05-01,1619827200000.0,,,0.0,Listing removed,StreetEasy,,,False,True,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",244783518
-2,2021-04-22,1619049600000.0,1600.0,3.0,-0.058823529411764705,Listed for rent,StreetEasy,,,False,True,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244783518
-3,2021-03-25,1616630400000.0,,,0.0,Listing removed,StreetEasy,,,False,True,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}",244783518
-4,2021-03-08,1615161600000.0,1700.0,3.0,-0.02857142857142857,Price change,StreetEasy,,,False,True,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244783518
-5,2021-02-24,1614124800000.0,1750.0,3.0,-0.10256410256410256,Listed for rent,StreetEasy,,,False,True,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}",244783518
-6,2020-09-30,1601424000000.0,1950.0,3.0,0.0,Listing removed,Manhattan Flats,,,False,True,"{'infoString1': None, 'infoString2': 'Manhattan Flats', 'infoString3': None}",244783518
-7,2020-09-21,1600646400000.0,1950.0,3.0,-0.09302325581395349,Listed for rent,Manhattan Flats,,,False,True,"{'infoString1': None, 'infoString2': 'Manhattan Flats', 'infoString3': None}",244783518
-8,2020-03-08,1583625600000.0,2150.0,4.0,0.0,Listing removed,Alpha Properties NYC I LLC,,,False,True,"{'infoString1': None, 'infoString2': 'Alpha Properties NYC I LLC', 'infoString3': None}",244783518
-9,2020-02-12,1581465600000.0,2150.0,4.0,-0.02050113895216401,Price change,Alpha Properties NYC I LLC,,,False,True,"{'infoString1': None, 'infoString2': 'Alpha Properties NYC I LLC', 'infoString3': None}",244783518
-10,2020-02-02,1580601600000.0,2195.0,4.0,-0.024444444444444446,Price change,Manhattan Flats,,,False,True,"{'infoString1': None, 'infoString2': 'Manhattan Flats', 'infoString3': None}",244783518
-11,2020-01-17,1579219200000.0,2250.0,4.0,0.0,Listed for rent,Manhattan Flats,,,False,True,"{'infoString1': None, 'infoString2': 'Manhattan Flats', 'infoString3': None}",244783518
-12,2019-01-07,1546819200000.0,2250.0,4.0,0.0,Listing removed,Manhattan Flats,,,False,True,"{'infoString1': None, 'infoString2': 'Manhattan Flats', 'infoString3': None}",244783518
-13,2019-01-05,1546646400000.0,2250.0,4.0,-0.0425531914893617,Price change,Manhattan Flats,,,False,True,"{'infoString1': None, 'infoString2': 'Manhattan Flats', 'infoString3': None}",244783518
-14,2019-01-03,1546473600000.0,2350.0,4.0,0.0,Listed for rent,Manhattan Flats,,,False,True,"{'infoString1': None, 'infoString2': 'Manhattan Flats', 'infoString3': None}",244783518
+,Date,Zpid,time,Price,pricePerSquareFoot,priceChangeRate,event,Agency,buyerAgent,sellerAgent,showCountyLink,postingIsRental,attributeSource
+1,07/12/2011,31493791,1.63149E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,01/01/2012,31493791,1.63063E+12,439000,,-0.022271715,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,22/05/2012,31493791,1.62432E+12,449000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,12/06/2013,31493791,1.62251E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+5,26/02/2015,31493791,1.61931E+12,449000,,-0.021786492,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+6,13/05/2015,31493791,1.61326E+12,459000,,-0.021321962,Price change,Brown Harris Stevens,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Brown Harris Stevens', 'infoString3': None}"
+7,09/10/2016,31493791,1.60669E+12,469000,,-0.012631579,Price change,Brown Harris Stevens,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Brown Harris Stevens', 'infoString3': None}"
+8,31/05/2017,31493791,1.60445E+12,475000,,-0.04040404,Price change,Brown Harris Stevens,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Brown Harris Stevens', 'infoString3': None}"
+9,13/06/2017,31493791,1.59961E+12,2194,,-0.000455581,Listing removed,Brown Harris Stevens Residential Sales,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Brown Harris Stevens Residential Sales', 'infoString3': None}"
+10,25/07/2017,31493791,1.59944E+12,495000,,0,Listed for sale,Halstead Real Estate,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Halstead Real Estate', 'infoString3': None}"
+11,02/10/2023,31493791,1.59797E+12,2195,,-0.024444444,Price change,Halstead Real Estate,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Halstead Real Estate', 'infoString3': None}"
+12,28/08/1998,31495033,1.59529E+12,2250,,-0.042553191,Price change,Halstead Real Estate,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Halstead Real Estate', 'infoString3': None}"
+13,04/05/2010,31495033,1.5927E+12,2350,,-0.030927835,Price change,Halstead Real Estate,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Halstead Real Estate', 'infoString3': None}"
+14,16/03/2021,31495033,1.59071E+12,2425,,-0.028056112,Listed for rent,Halstead Real Estate,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Halstead Real Estate', 'infoString3': None}"
+15,25/03/2021,31495033,1.5857E+12,2495,,0,Listing removed,Halstead Real Estate,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Halstead Real Estate', 'infoString3': None}"
+16,17/04/2021,31495033,1.58285E+12,2495,,0,Listed for rent,Halstead Real Estate,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Halstead Real Estate', 'infoString3': None}"
+1,22/06/2022,31495033,1.6962E+12,1050000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '10491203189', 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,16/07/2022,31495033,1.50422E+12,2990,,0,Listing removed,Corcoran,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}"
+3,22/07/2022,31495033,1.50206E+12,2990,,-0.011570248,Price change,Corcoran,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}"
+4,11/08/2022,31495033,1.49999E+12,3025,,-0.0546875,Price change,Corcoran,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}"
+5,26/08/2022,31495033,1.49498E+12,3200,,0.067022341,Listed for rent,Corcoran,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}"
+6,13/09/2022,31495033,1.43467E+12,2999,,0,Listing removed,Corcoran,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}"
+7,25/07/2023,31495033,1.43087E+12,2999,,-0.032580645,Price change,Corcoran,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}"
+8,02/08/2023,31495033,1.42992E+12,3100,,0.148148148,Listed for rent,Corcoran,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}"
+9,18/08/2023,31495033,1.36668E+12,2700,,0,Listing removed,Immac Realty,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Immac Realty', 'infoString3': None}"
+10,29/08/2023,31495033,1.36512E+12,2700,,0,Listed for rent,Immac Realty,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Immac Realty', 'infoString3': None}"
+1,28/09/2023,31495033,1.69137E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,18/02/1993,31496142,1.68722E+12,6250000,2120,-0.038461538,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,28/09/2023,31496142,1.68117E+12,6500000,2205,-0.064748201,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,21/04/2006,31497240,1.6702E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+5,28/09/2006,31497240,1.65819E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+6,07/08/2011,31497240,1.65154E+12,6950000,2358,-0.130706692,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+7,22/01/2012,31497240,1.64419E+12,7995000,2712,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,14/08/2013,31497240,1.69629E+12,1395000,1329,0.256879048,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '22711162', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,10/05/2021,31497240,1.31103E+12,1109892,1057,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,15/10/2021,31497240,1.69629E+12,5100000,1545,0.040816327,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,08/04/2022,31497240,1.68679E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,09/05/2022,31497240,1.68316E+12,4900000,1485,0.088888889,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,01/07/2022,31497240,1.67581E+12,4500000,1364,-0.181818182,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,11/07/2022,31497240,1.66432E+12,5500000,1667,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,28/07/2022,31497240,1.69629E+12,999999,1250,4.677747749,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,11/10/2022,31497240,1.65672E+12,,,0,Listing removed,Zillow Rental Network_1,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}"
+2,31/10/2022,31497240,1.65637E+12,5900,7,0.18,Listed for rent,Zillow Rental Network_1,,,FALSE,TRUE,"{'infoString1': '', 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}"
+3,07/11/2022,31497240,1.63745E+12,,,0,Listing removed,Zillow Rental Network_1,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}"
+4,14/12/2022,31497240,1.63642E+12,5000,6,0,Listed for rent,Zillow Rental Network_1,,,FALSE,TRUE,"{'infoString1': '', 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}"
+5,05/01/2023,31497240,1.63045E+12,,,0,Listing removed,Zillow Rental Network_1,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}"
+6,04/04/2023,31497240,1.62968E+12,5000,6,0,Listed for rent,Zillow Rental Network_1,,,FALSE,TRUE,"{'infoString1': '', 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}"
+7,26/05/2023,31497240,1.25729E+12,176126,220,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,10/07/2023,31497240,1.69629E+12,600000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,28/09/2023,31497240,1.69629E+12,6125000,2078,-0.02,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,23/12/1999,31500494,1.69629E+12,4200000,1641,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,28/09/2023,31500494,1.69629E+12,4700000,723,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,15/07/1999,31525553,1.69629E+12,300000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,29/09/2023,31525553,1.69629E+12,22000000,4400,0.848739496,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,10/07/1997,31533978,1.67875E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,24/02/2000,31533978,1.21496E+12,11900000,2380,0,Listing removed,Prudential Real Estate,,,FALSE,FALSE,"{'infoString1': '595368', 'infoString2': 'Prudential Real Estate', 'infoString3': None}"
+3,22/04/2012,31533978,1.21401E+12,11900000,2380,0,Listed for sale,Prudential Real Estate,,,FALSE,FALSE,"{'infoString1': '595368', 'infoString2': 'Prudential Real Estate', 'infoString3': None}"
+0,11/05/2012,31533978,1.69629E+12,1850000,1321,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,31/07/2012,31533978,1.69629E+12,8995000,2092,-0.1005,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,16/10/2012,31533978,1.6924E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,28/05/2015,31533978,1.68376E+12,10000000,2326,-0.130434783,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,09/06/2015,31533978,1.68039E+12,11500000,2674,-0.148148148,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,03/02/2017,31533978,1.25729E+12,13500000,3140,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,18/05/2017,31533978,1.69629E+12,3995000,1882,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,04/01/2018,31533978,1.69629E+12,2150000,,-0.102296451,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,01/02/2018,31533978,1.67124E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,10/03/2018,31533978,1.65335E+12,2395000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,10/05/2018,31533978,1.69629E+12,1795000,,-0.113580247,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '22711148', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,08/11/2018,31533978,1.21219E+12,2025000,,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,28/09/2023,31533978,1.69638E+12,2195000,2657,0.354938272,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,26/05/1995,31535465,1.48833E+12,1620000,1961,-0.018181818,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+2,01/07/2010,31535465,1.47943E+12,1650000,1998,0,Pending sale,Sotheby's International Realty,,,FALSE,FALSE,"{'infoString1': '00110942', 'infoString2': ""Sotheby's International Realty"", 'infoString3': None}"
+3,18/04/2015,31535465,1.47036E+12,1650000,1998,0.2,Listed for sale,Sotheby's International Realty,,,FALSE,FALSE,"{'infoString1': '00110942', 'infoString2': ""Sotheby's International Realty"", 'infoString3': None}"
+4,17/10/2015,31535465,1.42655E+12,1375000,1665,0.30952381,Sold,Public Record,,"{'photo': {'url': 'https://photos.zillowstatic.com/h_e/IS6mg52qj2p6400000000000.jpg'}, 'profileUrl': '/profile/Josh-Rubin/', 'name': 'Josh Rubin'}",FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+5,15/04/2016,31535465,1.37264E+12,1050000,1271,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,22/09/2016,31535465,1.69629E+12,3100000,1624,0.817575249,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,14/10/2016,31535465,1.27172E+12,1705569,893,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,04/05/2017,31535465,1.69629E+12,425000,,-0.031890661,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,19/10/2017,31535465,1.69629E+12,3695000,641,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,07/02/2018,31535465,1.69638E+12,887785,,-9.57E-05,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,03/04/2018,31535465,1.69404E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,05/12/2018,31535465,1.69266E+12,887870,,0.008943182,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,05/12/2018,31535465,1.69163E+12,880000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,20/02/2019,31535465,1.6962E+12,4750000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,19/10/2020,31535465,1.69629E+12,4000,,0.337792642,Listed for rent,Zillow Rentals,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Zillow Rentals', 'infoString3': None}"
+0,09/07/2021,31535465,1.6962E+12,4250000,,0.168866887,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,18/01/2022,31535465,1.3735E+12,3636000,,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,08/08/2022,31535465,1.6962E+12,399000,520,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,29/09/2023,31535465,1.66536E+12,,,0,Listing removed,StreetEasy,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,03/10/2023,31540998,1.66432E+12,3100,4,0,Listed for rent,StreetEasy,,,FALSE,TRUE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,26/07/2005,31541240,1.66329E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,28/09/2006,31541240,1.65525E+12,399000,520,-0.132608696,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+5,05/02/2015,31541240,1.65249E+12,460000,599,-0.070707071,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+6,06/02/2015,31541240,1.64868E+12,495000,645,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+7,21/09/2015,31541240,1.63909E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+8,21/01/2016,31541240,1.63719E+12,495000,645,11.375,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+9,10/10/2017,31541240,1.55606E+12,40000,52,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,02/10/2023,31541240,1.6962E+12,1489000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,28/09/2006,31546574,1.6962E+12,6500000,3232,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,07/12/2018,31546574,1.68774E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,07/09/2019,31546574,1.67512E+12,6500000,3232,-0.171974522,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,11/09/2019,31546574,1.65223E+12,7850000,3904,0.401691851,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,17/09/2019,31546574,1.36806E+12,5600375,2785,-0.690002268,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+5,18/09/2019,31546574,1.20364E+12,18065858,8984,1.9287089,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+6,20/09/2019,31546574,1.18912E+12,6168540,3067,-0.914527643,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+7,22/09/2019,31546574,1.1594E+12,72170000,35888,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,26/09/2019,31546574,1.6962E+12,695000,695,0.03115727,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,28/09/2019,31546574,1.68748E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,05/10/2019,31546574,1.67996E+12,674000,674,0.038520801,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,07/10/2019,31546574,1.67184E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,09/10/2019,31546574,1.66666E+12,649000,649,-0.037091988,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+5,11/10/2019,31546574,1.66415E+12,674000,674,-0.035765379,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+6,17/10/2019,31546574,1.65966E+12,699000,699,0.644705882,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+7,21/10/2019,31546574,1.17677E+12,425000,425,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,23/10/2019,31546574,1.6962E+12,399000,570,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,26/10/2019,31546574,1.6962E+12,6900000,,-0.013581129,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,27/10/2019,31546574,1.68843E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,29/10/2019,31546574,1.68299E+12,6995000,,-0.028472222,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,30/10/2019,31546574,1.67884E+12,7200000,,-0.026369168,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,04/11/2019,31546574,1.66147E+12,7395000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+5,07/11/2019,31546574,1.65629E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+6,10/11/2019,31546574,1.65145E+12,7395000,,-0.014,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+7,13/11/2019,31546574,1.64687E+12,7500000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+8,14/11/2019,31546574,1.6194E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+9,29/09/2023,31546574,1.5844E+12,7500000,,0,Listed for sale,Corcoran,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}"
+0,23/06/1999,55501233,1.6962E+12,3495000,2835,0.28021978,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,01/03/2013,55501233,1.37281E+12,2730000,2214,0.240909091,Sold,Public Record,,"{'photo': {'url': 'https://photos.zillowstatic.com/h_e/IS-1ts4cgpu00ajh.jpg'}, 'profileUrl': '/profile/user964070/', 'name': 'Frank Arends'}",FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+2,03/07/2013,55501233,1.3621E+12,2200000,1784,2.151862464,Listed for sale,"Town Residential, LLC",,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Town Residential, LLC', 'infoString3': None}"
+3,02/10/2023,55501233,9.30096E+11,698000,566,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,28/09/2006,69524580,1.6962E+12,1250000,1136,0.000800641,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,07/09/2007,69524580,1.68618E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,22/02/2008,69524580,1.68005E+12,1249000,1135,-0.031782946,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,09/05/2013,69524580,1.67962E+12,1290000,1173,-0.006928406,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,11/05/2022,69524580,1.66666E+12,1299000,1181,-0.037777778,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+5,31/01/2023,69524580,1.66329E+12,1350000,1227,-0.032258065,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+6,26/06/2023,69524580,1.65698E+12,1395000,1268,-0.021052632,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+7,02/10/2023,69524580,1.65456E+12,1425000,1295,-0.033898305,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+8,28/09/2006,72517702,1.5622E+12,1475000,1341,0,Listing removed,Brown Harris Stevens,,,FALSE,FALSE,"{'infoString1': '19176638', 'infoString2': 'Brown Harris Stevens', 'infoString3': None}"
+9,14/10/2015,72517702,1.55917E+12,1475000,1341,-0.016666667,Price change,Brown Harris Stevens,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Brown Harris Stevens', 'infoString3': None}"
+10,16/12/2015,72517702,1.54164E+12,1500000,1364,0.102941176,Listed for sale,Brown Harris Stevens,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Brown Harris Stevens', 'infoString3': None}"
+11,29/02/2016,72517702,1.43407E+12,1360000,1236,-0.025089606,Sold,Public Record,,"{'photo': None, 'profileUrl': '/profile/Barbara4673/', 'name': 'Barbara'}",FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+12,05/04/2017,72517702,1.42327E+12,1395000,1268,0,Pending sale,Corcoran,,,FALSE,FALSE,"{'infoString1': '3389939', 'infoString2': 'Corcoran', 'infoString3': None}"
+13,05/05/2017,72517702,1.42119E+12,1395000,1268,0.367647059,Listed for sale,Corcoran,,,FALSE,FALSE,"{'infoString1': '3389939', 'infoString2': 'Corcoran', 'infoString3': None}"
+14,12/09/2017,72517702,1.36572E+12,1020000,927,-0.037735849,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+15,18/09/2017,72517702,1.35855E+12,1060000,964,0,Pending sale,BHS   BHS/EXCL,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'BHS   BHS/EXCL', 'infoString3': None}"
+16,27/09/2017,72517702,1.35726E+12,1060000,964,-0.036363636,Price change,BHS   BHS/EXCL,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'BHS   BHS/EXCL', 'infoString3': None}"
+17,08/06/2018,72517702,1.35138E+12,1100000,1000,-0.005514872,Listed for sale,BHSR   BROWN HARRIS STEVENS  REBNY,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'BHSR   BROWN HARRIS STEVENS  REBNY', 'infoString3': None}"
+18,27/07/2018,72517702,1.18524E+12,1106100,1006,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,05/09/2018,72517702,1.6962E+12,560000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '1342829296799522769', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,18/10/2018,72517702,1.65836E+12,,,0,Listing removed,StreetEasy,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,28/01/2019,72517702,1.65802E+12,3200,,0,Listed for rent,StreetEasy,,,FALSE,TRUE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,11/09/2019,72517702,1.6962E+12,1200000,,-0.139784946,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,14/09/2019,72517702,1.52168E+12,1395000,,0,Listing removed,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': '2911421', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+2,10/01/2020,72517702,1.51813E+12,1395000,,0,Listed for sale,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': '2911421', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+0,25/01/2020,72517702,1.6962E+12,725000,906,0.098484848,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,09/12/2022,72517702,1.21461E+12,660000,825,1.037037037,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+2,13/12/2022,72517702,1.1594E+12,324000,405,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,29/09/2023,72517702,1.6962E+12,2995000,,51.22956595,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,28/09/2006,72518478,1.46837E+12,57343,,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,28/09/2023,72518478,1.6962E+12,2350000,1747,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,28/09/2006,72523812,1.69292E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,28/06/2008,72523812,1.688E+12,2350000,1747,-0.094412331,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,02/10/2023,72523812,1.68204E+12,2595000,1929,0.04008016,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,28/09/2006,72527862,1.54518E+12,2495000,1855,0,Listing removed,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': '2804536', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+5,28/02/2023,72527862,1.49792E+12,2495000,1855,0.054968288,Listed for sale,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': '2804536', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+6,13/04/2023,72527862,1.48902E+12,2365000,1758,0,Listing removed,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': '2520220', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+7,09/05/2023,72527862,1.4739E+12,2365000,1758,0,Listed for sale,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': '2520220', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+8,27/06/2023,72527862,1.45575E+12,2365000,1758,0,Listing removed,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': '2255432', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+9,29/09/2023,72527862,1.4459E+12,2365000,1758,0,Listed for sale,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+0,17/04/2007,72535705,1.6962E+12,18500000,2313,-0.074768692,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '22465410', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,05/08/2022,72535705,1.50759E+12,19995000,2499,0,Listing removed,Warburg Realty,,,FALSE,FALSE,"{'infoString1': '57319TH', 'infoString2': 'Warburg Realty', 'infoString3': None}"
+2,26/09/2022,72535705,1.45333E+12,19995000,2499,-0.200040008,Price change,Warburg Realty,,,FALSE,FALSE,"{'infoString1': '57319TH', 'infoString2': 'Warburg Realty', 'infoString3': None}"
+3,25/10/2022,72535705,1.44279E+12,24995000,3124,-0.152711864,Listed for sale,Warburg Realty,,,FALSE,FALSE,"{'infoString1': '57319TH', 'infoString2': 'Warburg Realty', 'infoString3': None}"
+4,24/12/2022,72535705,1.42318E+12,29500000,3688,0,Listing removed,Warburg Realty,,,FALSE,FALSE,"{'infoString1': '10005731920150204', 'infoString2': 'Warburg Realty', 'infoString3': None}"
+5,28/03/2023,72535705,1.42309E+12,29500000,3688,4.9,Listed for sale,Leslie J. Garfield,,,FALSE,FALSE,"{'infoString1': '10005731920150204', 'infoString2': 'Leslie J. Garfield', 'infoString3': None}"
+6,23/06/2023,72535705,1.1594E+12,5000000,625,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+7,02/10/2023,72535705,1.12234E+12,5000000,625,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,24/07/2007,72537157,1.6962E+12,6875000,,-0.017155111,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '22707548', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,28/10/2012,72537157,1.69353E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,04/01/2013,72537157,1.69093E+12,6995000,,-0.067333333,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '1286138591436513009', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,19/01/2013,72537157,1.68108E+12,7500000,,0.042390549,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '1286138591436513009', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,12/04/2013,72537157,1.67927E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+5,14/01/2015,72537157,1.67322E+12,7195000,,-0.100062539,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+6,07/02/2015,72537157,1.67236E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+7,12/06/2015,72537157,1.6645E+12,7995000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,08/11/2018,72537157,1.6962E+12,795000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,30/05/2019,72537157,1.68808E+12,,,0,Listing removed,OneKey® MLS,,,FALSE,FALSE,"{'infoString1': 'H6220164', 'infoString2': 'OneKey® MLS', 'infoString3': 'https://photos.zillowstatic.com/fp/4e66a55bd37a412d002fb678e0dbded9-zillow_web_logo_inf_11.jpg'}"
+2,04/07/2019,72537157,1.68255E+12,795000,,-0.036363636,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,07/06/2022,72537157,1.66804E+12,825000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,05/07/2022,72537157,1.6962E+12,10995000,2911,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '22708424', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,16/09/2022,72537157,1.50094E+12,10995000,2911,0,Listing removed,Compass,,,FALSE,FALSE,"{'infoString1': 'e173c7a65b4abdf05946d7e80bb0bdffcdb1d666', 'infoString2': 'Compass', 'infoString3': None}"
+2,25/10/2022,72537157,1.49731E+12,10995000,2911,0,Pending sale,Compass,,,FALSE,FALSE,"{'infoString1': 'e173c7a65b4abdf05946d7e80bb0bdffcdb1d666', 'infoString2': 'Compass', 'infoString3': None}"
+3,24/03/2023,72537157,1.49619E+12,10995000,2911,-0.043913043,Price change,Compass,,,FALSE,FALSE,"{'infoString1': 'e173c7a65b4abdf05946d7e80bb0bdffcdb1d666', 'infoString2': 'Compass', 'infoString3': None}"
+4,29/03/2023,72537157,1.47597E+12,11500000,3045,-0.488888889,Listed for sale,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': '2544491', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+5,08/06/2023,72537157,1.43148E+12,22500000,5957,0,Listing removed,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': '2042482', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+6,02/10/2023,72537157,1.42491E+12,22500000,5957,0.956521739,Listed for sale,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+7,04/11/2009,72537926,1.371E+12,11500000,3045,12.8966764,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+8,23/08/2021,72537926,1.33764E+12,827536,219,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+9,01/09/2021,72537926,1.32538E+12,9000,2,0,Listing removed,MQ Realty LLC,,,FALSE,TRUE,"{'infoString1': '10809', 'infoString2': 'MQ Realty LLC', 'infoString3': None}"
+10,09/11/2021,72537926,1.32322E+12,9000,2,0,Listed for rent,MQ Realty LLC,,,FALSE,TRUE,"{'infoString1': '10809', 'infoString2': 'MQ Realty LLC', 'infoString3': None}"
+0,21/11/2021,72537926,1.6962E+12,4000,8,0,Listed for rent,Zillow Rentals,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Zillow Rentals', 'infoString3': None}"
+1,28/06/2022,72537926,1.6505E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,02/07/2022,72537926,1.64186E+12,417000,791,0,Pending sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,03/10/2023,72537926,1.63512E+12,417000,791,-0.062921348,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,28/09/2006,72537954,1.63356E+12,445000,844,-0.043010753,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+5,29/09/2023,72537954,1.62994E+12,465000,882,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,28/09/2006,72538076,1.69629E+12,1735000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,22/06/2016,72538076,1.69629E+12,690000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,25/01/2017,72538076,1.69629E+12,28500000,2317,0.075471698,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,13/06/2018,72538076,1.68713E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,26/09/2018,72538076,1.68022E+12,26500000,2154,0,Pending sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,07/01/2020,72538076,1.67504E+12,26500000,2154,-0.036188398,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,28/09/2020,72538076,1.66674E+12,27495000,2235,-0.076574307,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+5,04/11/2020,72538076,1.66571E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+6,28/09/2023,72538076,1.64385E+12,29775000,2421,-0.0075,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+7,28/09/2006,72539555,1.63711E+12,30000000,2439,0.153846154,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+8,26/03/2022,72539555,1.63503E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+9,03/10/2022,72539555,1.6219E+12,26000000,2114,-0.12605042,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+10,16/12/2022,72539555,1.61464E+12,29750000,2419,0,Listed for sale,Sotheby's International Realty,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': ""Sotheby's International Realty"", 'infoString3': None}"
+0,11/01/2023,72539555,1.69612E+12,4190000,2659,0.260150376,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,14/03/2023,72539555,1.62605E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,30/06/2023,72539555,1.61827E+12,3325000,2110,0,Pending sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,29/09/2023,72539555,1.61093E+12,3325000,2110,0,Listed for sale,Reuveni Real Estate LLC,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Reuveni Real Estate LLC', 'infoString3': None}"
+0,30/08/2007,72672722,1.69612E+12,1950000,2031,0.805555556,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,10/09/2010,72672722,1.27855E+12,1080000,1125,-0.060869565,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+2,12/10/2010,72672722,1.27077E+12,1150000,1198,-0.00862069,Listed for sale,Citi Habitats,,,FALSE,FALSE,"{'infoString1': '642094', 'infoString2': 'Citi Habitats', 'infoString3': None}"
+3,05/12/2010,72672722,1.19647E+12,1160000,1208,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,14/12/2010,72672722,1.69603E+12,2295000,2013,1.436290215,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,02/12/2011,72672722,1.25073E+12,942006,826,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,03/02/2012,72672722,1.69603E+12,1300000,1300,0.083333333,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,23/03/2012,72672722,1.68005E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,28/09/2023,72672722,1.67547E+12,1200000,1200,0,Pending sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '1216727014383567457', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,01/12/2007,79495315,1.67279E+12,1200000,1200,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,09/04/2010,79495315,1.69586E+12,849999,1133,-0.017342197,Listed for sale,OneKey® MLS,,,FALSE,FALSE,"{'infoString1': 'H6271151', 'infoString2': 'OneKey® MLS', 'infoString3': 'https://photos.zillowstatic.com/fp/4e66a55bd37a412d002fb678e0dbded9-zillow_web_logo_inf_11.jpg'}"
+1,08/07/2010,79495315,1.52963E+12,865000,1153,0,Listing removed,Warburg Realty,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Warburg Realty', 'infoString3': None}"
+2,01/10/2023,79495315,1.5241E+12,865000,1153,0,Pending sale,Warburg Realty,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Warburg Realty', 'infoString3': None}"
+3,31/05/2008,79499004,1.5215E+12,865000,1153,-0.011428571,Price change,Warburg Realty,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Warburg Realty', 'infoString3': None}"
+4,03/10/2023,79499004,1.51813E+12,875000,1167,0,Listed for sale,Warburg Realty,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Warburg Realty', 'infoString3': None}"
+0,20/08/2009,80006983,1.69595E+12,1250000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,30/09/2023,80006983,1.69595E+12,1950000,813,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,04/11/2009,83892487,1.69595E+12,1950000,367,0,Listed for sale,OneKey® MLS,,,FALSE,FALSE,"{'infoString1': 'H6271389', 'infoString2': 'OneKey® MLS', 'infoString3': 'https://photos.zillowstatic.com/fp/4e66a55bd37a412d002fb678e0dbded9-zillow_web_logo_inf_11.jpg'}"
+1,02/04/2023,83892487,1.69586E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,11/05/2023,83892487,1.69102E+12,1950000,367,0,Pending sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,19/08/2023,83892487,1.68912E+12,1950000,367,-0.071428571,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,03/10/2023,83892487,1.68739E+12,2100000,395,-0.086956522,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+5,14/07/2010,92961844,1.6854E+12,2300000,433,0.277777778,Listed for sale,Owner,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'Owner', 'infoString3': None}"
+6,29/09/2023,92961844,1.66648E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+7,01/07/2013,96756460,1.66251E+12,1800000,339,-0.181818182,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '21923675', 'infoString2': 'StreetEasy', 'infoString3': None}"
+8,17/03/2015,96756460,1.65957E+12,2200000,414,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '21923675', 'infoString2': 'StreetEasy', 'infoString3': None}"
+9,05/08/2016,96756460,1.56324E+12,1600,0,0,Listing removed,PLUSH REALTY Inc,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'PLUSH REALTY Inc', 'infoString3': None}"
+10,18/11/2016,96756460,1.56306E+12,1600,0,0,Listed for rent,PLUSH REALTY Inc,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'PLUSH REALTY Inc', 'infoString3': None}"
+0,01/03/2017,96756460,1.69595E+12,449000,998,0.360606061,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,04/10/2023,96756460,1.27907E+12,330000,733,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,24/01/2020,97521790,1.69595E+12,519900,945,0.256838395,Listed for sale,OneKey® MLS,,,FALSE,FALSE,"{'infoString1': 'H6271378', 'infoString2': 'OneKey® MLS', 'infoString3': 'https://photos.zillowstatic.com/fp/4e66a55bd37a412d002fb678e0dbded9-zillow_web_logo_inf_11.jpg'}"
+1,13/02/2020,97521790,1.57369E+12,413657,752,0,Listing removed,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+2,16/11/2022,97521790,1.5736E+12,413657,752,-0.000169194,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+3,17/02/2023,97521790,1.57334E+12,413727,752,0.000955648,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+4,30/06/2023,97521790,1.57308E+12,413332,752,0.001005045,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+5,03/10/2023,97521790,1.57283E+12,412917,751,0.010993397,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+6,20/04/2010,97524102,1.57239E+12,408427,743,-0.000714427,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+7,03/10/2023,97524102,1.57231E+12,408719,743,-9.54E-05,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+8,19/07/2011,97530281,1.57213E+12,408758,743,-0.000950759,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+9,03/10/2023,97530281,1.57205E+12,409147,744,0.001368126,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+10,11/07/2013,119911782,1.57179E+12,408588,743,0.000903927,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+11,02/10/2023,119911782,1.57162E+12,408219,742,0.003920074,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+12,26/03/2013,119915812,1.57127E+12,406625,739,-0.00592108,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+13,29/09/2023,119915812,1.57075E+12,409047,744,-0.002548209,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+14,29/09/2023,119918973,1.57058E+12,410092,746,-0.002396145,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+15,07/10/2014,122143029,1.57041E+12,411077,747,-0.000942972,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+16,14/07/2017,122143029,1.57023E+12,411465,748,-0.007293335,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+17,11/08/2017,122143029,1.56963E+12,414488,754,0.000475511,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+18,01/12/2017,122143029,1.56946E+12,414291,753,2.90E-05,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+19,15/07/2020,122143029,1.56911E+12,414279,753,0.002160209,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+20,10/08/2020,122143029,1.56894E+12,413386,752,0.002130873,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+21,30/08/2020,122143029,1.56876E+12,412507,750,-0.00121547,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+22,14/09/2020,122143029,1.56868E+12,413009,751,0.002909102,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+23,07/10/2020,122143029,1.56816E+12,411811,749,0.004510174,Price change,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+24,06/11/2020,122143029,1.56781E+12,409962,745,0.932807498,Listed for sale,Auction.com,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Auction.com', 'infoString3': None}"
+25,16/11/2020,122143029,1.54414E+12,212107,386,-0.089669528,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+26,17/11/2020,122143029,1.1594E+12,233000,424,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,01/12/2020,122143029,1.69595E+12,680000,1236,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '22691201', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,23/02/2021,122143029,1.69595E+12,4795000,1968,0.200250313,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,29/09/2023,122143029,1.47148E+12,3995000,1639,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,29/04/2015,123579709,1.69595E+12,3595000,1598,0.526539278,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '22704053', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,29/09/2023,123579709,1.59071E+12,2355000,1047,0,Sold,Public Record,"{'photo': {'url': 'https://photos.zillowstatic.com/h_e/ISn2chmkoon7qb1000000000.jpg'}, 'profileUrl': '/profile/JoeBonacci1/', 'name': 'Joseph Bonacci'}","{'photo': {'url': 'https://photos.zillowstatic.com/h_e/ISn2chmkoon7qb1000000000.jpg'}, 'profileUrl': '/profile/JoeBonacci1/', 'name': 'Joseph Bonacci'}",FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,02/10/2023,124845598,1.69595E+12,875000,,-0.022346369,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,03/10/2023,145586220,1.56859E+12,895000,,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+2,16/09/2015,219668455,1.55779E+12,895000,,-0.004449388,Pending sale,Corcoran,,,FALSE,FALSE,"{'infoString1': '5638737', 'infoString2': 'Corcoran', 'infoString3': None}"
+3,06/06/2023,219668455,1.55615E+12,899000,,-0.028108108,Price change,Corcoran,,,FALSE,FALSE,"{'infoString1': '5638737', 'infoString2': 'Corcoran', 'infoString3': None}"
+4,13/07/2023,219668455,1.54812E+12,925000,,0,Listed for sale,Corcoran,,,FALSE,FALSE,"{'infoString1': '5638737', 'infoString2': 'Corcoran', 'infoString3': None}"
+0,28/09/2023,219668455,1.69595E+12,1600000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '1410214436344254969', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,29/07/2011,219685697,1.69595E+12,350000,,-0.125,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,29/09/2023,219685697,1.69292E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,13/07/2016,219686205,1.68178E+12,400000,,-0.2,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,02/10/2023,219686205,1.67996E+12,500000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,18/08/2016,219693876,1.60885E+12,1600,,0,Listing removed,Compass,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+5,29/09/2023,219693876,1.60808E+12,1600,,-0.238095238,Listed for rent,Compass,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+6,29/09/2023,244709472,1.59589E+12,2100,,0,Listing removed,Compass,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+7,29/09/2023,244712798,1.59339E+12,2100,,-0.045454545,Price change,Compass,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+8,29/09/2023,244725263,1.59002E+12,2200,,-0.043478261,Price change,Highline Residential,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Highline Residential', 'infoString3': None}"
+9,09/02/2018,244728288,1.5895E+12,2300,,0,Listed for rent,Highline Residential,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Highline Residential', 'infoString3': None}"
+0,20/03/2018,244728288,1.69595E+12,785000,,0.207692308,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,19/04/2018,244728288,1.61404E+12,650000,,0.04,Sold,Public Record,,"{'photo': {'url': 'https://photos.zillowstatic.com/h_e/ISv4rw81sv9wbm0000000000.jpg'}, 'profileUrl': '/profile/Cindy-Scholz/', 'name': 'Cindy Scholz'}",FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+2,22/06/2018,244728288,1.60678E+12,625000,,0,Pending sale,Compass,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+3,28/09/2023,244728288,1.60557E+12,625000,,-0.038461538,Price change,Compass,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+4,02/10/2023,244750174,1.60548E+12,650000,,-0.070100143,Price change,Compass,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+5,10/11/2022,244750374,1.60462E+12,699000,,-0.035862069,Price change,Compass,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+6,27/04/2023,244750374,1.60203E+12,725000,,-0.064516129,Price change,Compass,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+7,30/06/2023,244750374,1.60004E+12,775000,,-0.030037547,Price change,Compass,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+8,02/10/2023,244750374,1.59875E+12,799000,,-0.043113772,Price change,Compass,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+9,28/09/2023,244753267,1.59702E+12,835000,,-0.034682081,Price change,Compass,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+10,22/01/2019,244756008,1.59477E+12,865000,,0.029761905,Listed for sale,Compass,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+11,25/04/2019,244756008,1.51209E+12,840000,,-0.020979021,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+12,14/05/2019,244756008,1.50241E+12,858000,,0,Pending sale,Brown Harris Stevens,,,FALSE,FALSE,"{'infoString1': '17123356', 'infoString2': 'Brown Harris Stevens', 'infoString3': None}"
+13,16/09/2019,244756008,1.49999E+12,858000,,0.588888889,Listed for sale,Brown Harris Stevens,,,FALSE,FALSE,"{'infoString1': '17123356', 'infoString2': 'Brown Harris Stevens', 'infoString3': None}"
+14,29/09/2023,244756008,1.41264E+12,540000,,0,Sold,Public Record,"{'photo': {'url': 'https://photos.zillowstatic.com/h_e/IS1jrkdqyjk98e1000000000.jpg'}, 'profileUrl': '/profile/dominiclongcroft/', 'name': 'Dominic Stoddart Longcroft'}","{'photo': {'url': 'https://photos.zillowstatic.com/h_e/IS1jrkdqyjk98e1000000000.jpg'}, 'profileUrl': '/profile/dominiclongcroft/', 'name': 'Dominic Stoddart Longcroft'}",FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,28/02/2020,244765355,1.69595E+12,13200000,,0.615790682,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,01/04/2020,244765355,1.43027E+12,8169375,,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,29/05/2020,244765355,1.69595E+12,11500000,1697,0.010717828,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,21/06/2020,244765355,1.65992E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,21/07/2020,244765355,1.64246E+12,11378052,1679,0.051770383,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,21/08/2020,244765355,1.62579E+12,,,0,Listing removed,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': 'https://photos.zillowstatic.com/fp/516348e93397d0c5ef994a809e58da18-zillow_web_logo_inf_11.jpg'}"
+4,07/09/2020,244765355,1.60307E+12,10818000,1597,-0.119413919,Price change,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': '3580522', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+5,09/09/2020,244765355,1.55062E+12,12285000,1813,-0.10230179,Price change,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': '3580522', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+6,04/11/2020,244765355,1.54397E+12,13685000,2020,-0.139037433,Listed for sale,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': '3580522', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+7,30/11/2020,244765355,1.54397E+12,40000,6,0,Listing removed,Douglas Elliman,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+8,14/02/2021,244765355,1.52271E+12,40000,6,-0.058823529,Price change,Douglas Elliman,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+9,25/04/2021,244765355,1.51796E+12,42500,6,0.0625,Listed for rent,Douglas Elliman,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+10,01/06/2021,244765355,1.50837E+12,40000,6,0,Listing removed,Douglas Elliman,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+11,22/06/2021,244765355,1.49386E+12,40000,6,0,Listed for rent,Douglas Elliman,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+12,03/09/2021,244765355,1.4764E+12,15895000,2346,0,Listing removed,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': '2088636', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+13,13/09/2021,244765355,1.4745E+12,15895000,2346,-0.005630278,Listed for sale,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': '2088636', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+14,03/10/2023,244765355,1.46068E+12,15985000,2359,0,Listing removed,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': '2088636', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+15,03/10/2023,244766629,1.44504E+12,15985000,2359,-0.073333333,Price change,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': '2088636', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+16,03/01/2019,244783518,1.42932E+12,17250000,2546,0.112903226,Listed for sale,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': '2088636', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+17,05/01/2019,244783518,1.27794E+12,15500000,2287,1.628232302,Sold,Agent Provided,"{'photo': {'url': 'https://photos.zillowstatic.com/h_e/ISpxy20cru8jmr1000000000.jpg'}, 'profileUrl': '/profile/asalem1/', 'name': 'Alex Salem'}",,FALSE,FALSE,"{'infoString1': None, 'infoString2': None, 'infoString3': None}"
+18,07/01/2019,244783518,8.01446E+11,5897500,870,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,17/01/2020,244783518,1.69595E+12,795000,994,-0.059171598,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,02/02/2020,244783518,1.67089E+12,,,0,Listing removed,Zillow Rentals,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Zillow Rentals', 'infoString3': None}"
+2,12/02/2020,244783518,1.67054E+12,4200,5,0,Listed for rent,Zillow Rentals,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Zillow Rentals', 'infoString3': None}"
+3,08/03/2020,244783518,1.57991E+12,4200,5,0,Listing removed,Owner,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Owner', 'infoString3': None}"
+4,21/09/2020,244783518,1.57861E+12,4200,5,0.105263158,Listed for rent,Owner,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Owner', 'infoString3': None}"
+5,30/09/2020,244783518,1.56842E+12,3800,5,0,Listing removed,Owner,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Owner', 'infoString3': None}"
+6,24/02/2021,244783518,1.56816E+12,3800,5,0.027027027,Listed for rent,Owner,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Owner', 'infoString3': None}"
+7,08/03/2021,244783518,1.54863E+12,845000,1056,0,Listing removed,Compass,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+8,25/03/2021,244783518,1.53982E+12,845000,1056,-0.055865922,Listed for sale,Compass,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+9,22/04/2021,244783518,1.53611E+12,895000,1119,0,Listing removed,Modern Spaces,,,FALSE,FALSE,"{'infoString1': '160079', 'infoString2': 'Modern Spaces', 'infoString3': None}"
+10,01/05/2021,244783518,1.53265E+12,895000,1119,-0.052910053,Price change,Modern Spaces,,,FALSE,FALSE,"{'infoString1': '160079', 'infoString2': 'Modern Spaces', 'infoString3': None}"
+11,28/09/2023,244783518,1.52842E+12,945000,1181,0.118343195,Listed for sale,Modern Spaces,,,FALSE,FALSE,"{'infoString1': '160079', 'infoString2': 'Modern Spaces', 'infoString3': None}"
+12,24/04/2019,244793512,1.50647E+12,3700,5,0,Listing removed,Owner,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Owner', 'infoString3': None}"
+13,18/11/2021,244793512,1.50569E+12,3700,5,-0.063291139,Price change,Owner,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Owner', 'infoString3': None}"
+14,10/12/2021,244793512,1.50517E+12,3950,5,-0.05952381,Listed for rent,Owner,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Owner', 'infoString3': None}"
+15,31/03/2022,244793512,1.49394E+12,4200,5,0,Listing removed,Cooper Square,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Cooper Square', 'infoString3': None}"
+16,14/05/2022,244793512,1.49135E+12,4200,5,0,Listed for rent,Cooper Square,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Cooper Square', 'infoString3': None}"
+17,15/06/2022,244793512,1.4567E+12,845000,1056,-0.04519774,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+18,16/09/2022,244793512,1.45022E+12,885000,1106,0,Pending sale,Corcoran,,,FALSE,FALSE,"{'infoString1': '3500148', 'infoString2': 'Corcoran', 'infoString3': None}"
+19,28/09/2022,244793512,1.44478E+12,885000,1106,0.380655226,Listed for sale,Corcoran,,,FALSE,FALSE,"{'infoString1': '3500148', 'infoString2': 'Corcoran', 'infoString3': None}"
+20,10/10/2022,244793512,1.1594E+12,641000,801,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,02/10/2023,244793512,1.69595E+12,2250000,1023,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '1410310154127549609', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,26/08/2021,244801842,1.69595E+12,1750000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,07/10/2021,244801842,1.69595E+12,899000,1153,1.720121029,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,25/10/2021,244801842,9.31997E+11,330500,424,0,Sold,Agent Provided,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': None, 'infoString3': None}"
+0,11/01/2022,244801842,1.69595E+12,3750000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,21/04/2022,244801842,1.69595E+12,795000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,02/10/2023,244801842,1.69595E+12,995000,847,-0.004004004,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,29/09/2023,244838287,1.52781E+12,999000,850,0,Sold,Agent Provided,,"{'photo': {'url': 'https://photos.zillowstatic.com/h_e/IS3fsm8r7y52d40000000000.jpg'}, 'profileUrl': '/profile/Sofiasnewyorkcity/', 'name': 'Sofia Corradini'}",FALSE,FALSE,"{'infoString1': None, 'infoString2': None, 'infoString3': None}"
+2,09/02/2018,244850499,1.52038E+12,999000,850,0.004020101,Listed for sale,Keller Williams NYC,,,FALSE,FALSE,"{'infoString1': '205490', 'infoString2': 'Keller Williams NYC', 'infoString3': None}"
+3,22/03/2018,244850499,1.46483E+12,995000,847,0,Listing removed,Corcoran,,,FALSE,FALSE,"{'infoString1': '3687128', 'infoString2': 'Corcoran', 'infoString3': None}"
+4,02/10/2023,244850499,1.46042E+12,995000,847,0,Listed for sale,Discount Realty Consultants,,,FALSE,FALSE,"{'infoString1': '2843692', 'infoString2': 'Discount Realty Consultants', 'infoString3': None}"
+0,19/02/2023,244887775,1.69595E+12,1750000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,16/03/2023,244887775,1.69595E+12,6495000,,-0.058013053,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,24/04/2023,244887775,1.68808E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,29/06/2023,244887775,1.67875E+12,6895000,,-0.028873239,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,28/09/2023,244887775,1.6734E+12,7100000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,29/09/2023,244891137,1.67115E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+5,29/05/2020,324832330,1.66476E+12,7100000,,-0.040540541,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+6,29/09/2023,324832330,1.64825E+12,7400000,,0.203252033,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+7,03/10/2023,2055186891,1.1594E+12,6150000,,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,03/10/2023,2055186892,1.69595E+12,8750000,,-0.005681818,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '22667027', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,03/10/2023,2055189577,1.3119E+12,8800000,,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,03/10/2023,2055191555,1.69595E+12,1395000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '22695232', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,03/10/2023,2055192359,1.69603E+12,7500000,1786,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,03/10/2023,2055198358,1.69595E+12,4550000,1978,0.467741935,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,02/10/2023,2055202672,1.36426E+12,3100000,1348,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,29/09/2023,2055224702,1.69595E+12,839000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,29/09/2023,2055226639,1.69595E+12,1100000,,5.682623963,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,29/09/2023,2055232195,1.1594E+12,164606,,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,29/09/2023,2055232343,1.69595E+12,40000000,6349,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '22702452', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,30/09/2023,2055233949,1.69629E+12,14500000,3772,-0.033333333,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,29/09/2023,2055237800,1.68808E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,29/09/2023,2055239728,1.67659E+12,15000000,3902,-0.090909091,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,28/09/2023,2055242817,1.66856E+12,16500000,4292,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,28/09/2023,2055248712,1.58155E+12,30000,8,0,Listing removed,Corcoran,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}"
+5,10/08/2023,2056060898,1.57982E+12,30000,8,0,Listed for rent,Corcoran,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Corcoran', 'infoString3': None}"
+0,22/08/2023,2056060898,1.69586E+12,925000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,07/09/2023,2056060898,1.69586E+12,1895000,1148,13.41064639,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,04/10/2023,2056060898,7.29994E+11,131500,80,0,Sold,Agent Provided,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': None, 'infoString3': None}"
+0,04/01/2023,2060251316,1.69586E+12,23500000,2244,-0.160714286,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,04/02/2023,2060251316,1.54164E+12,28000000,2674,0,Listing removed,Brown Harris Stevens,,,FALSE,FALSE,"{'infoString1': '18171685', 'infoString2': 'Brown Harris Stevens', 'infoString3': None}"
+2,29/03/2023,2060251316,1.52591E+12,28000000,2674,-0.066666667,Price change,Brown Harris Stevens,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Brown Harris Stevens', 'infoString3': None}"
+3,30/09/2023,2060251316,1.52064E+12,30000000,2865,0,Listed for sale,Brown Harris Stevens,,,FALSE,FALSE,"{'infoString1': '18171685', 'infoString2': 'Brown Harris Stevens', 'infoString3': None}"
+4,30/09/2022,2061289292,1.51744E+12,30000000,2865,0,Listing removed,Corcoran,,,FALSE,FALSE,"{'infoString1': '3884940', 'infoString2': 'Corcoran', 'infoString3': None}"
+5,30/12/2022,2061289292,1.51502E+12,30000000,2865,-0.076923077,Price change,Corcoran,,,FALSE,FALSE,"{'infoString1': '3884940', 'infoString2': 'Corcoran', 'infoString3': None}"
+6,09/01/2023,2061289292,1.49507E+12,32500000,3103,-0.071428571,Price change,Corcoran,,,FALSE,FALSE,"{'infoString1': '3884940', 'infoString2': 'Corcoran', 'infoString3': None}"
+7,20/03/2023,2061289292,1.48608E+12,35000000,3342,-0.090909091,Listed for sale,Corcoran,,,FALSE,FALSE,"{'infoString1': '3884940', 'infoString2': 'Corcoran', 'infoString3': None}"
+8,10/04/2023,2061289292,1.43381E+12,38500000,3676,0,Listing removed,Corcoran,,,FALSE,FALSE,"{'infoString1': '3435212', 'infoString2': 'Corcoran', 'infoString3': None}"
+9,02/08/2023,2061289292,1.43277E+12,38500000,3676,1.75,Listed for sale,Corcoran,,,FALSE,FALSE,"{'infoString1': '3435212', 'infoString2': 'Corcoran', 'infoString3': None}"
+10,01/09/2023,2061289292,1.35035E+12,14000000,1337,13,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+11,02/10/2023,2061289292,1.34369E+12,1000000,95,-0.970149254,Listed for sale,NestSeekers International,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'NestSeekers International', 'infoString3': None}"
+12,28/09/2022,2061338920,1.33669E+12,33500000,3199,0,Listing removed,The Corcoran Group,,,FALSE,FALSE,"{'infoString1': '2319621', 'infoString2': 'The Corcoran Group', 'infoString3': None}"
+13,08/02/2023,2061338920,1.33505E+12,33500000,3199,4.583333333,Listed for sale,The Corcoran Group,,,FALSE,FALSE,"{'infoString1': '2319621', 'infoString2': 'The Corcoran Group', 'infoString3': None}"
+14,04/05/2023,2061338920,9.5135E+11,6000000,573,-0.581881533,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+15,15/06/2023,2061338920,8.68493E+11,14350000,1370,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,03/10/2023,2061338920,1.69586E+12,2795000,,0.693939394,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '1410321240024870825', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,17/07/2022,2062357663,1.33246E+12,1650000,,0,Listing removed,The Corcoran Group,,,FALSE,FALSE,"{'infoString1': '2268515', 'infoString2': 'The Corcoran Group', 'infoString3': None}"
+2,21/07/2022,2062357663,1.32823E+12,1650000,,-0.057142857,Price change,The Corcoran Group,,,FALSE,FALSE,"{'infoString1': '2268515', 'infoString2': 'The Corcoran Group', 'infoString3': None}"
+3,02/10/2023,2062357663,1.32278E+12,1750000,,0.032448378,Listed for sale,The Corcoran Group,,,FALSE,FALSE,"{'infoString1': '2268515', 'infoString2': 'The Corcoran Group', 'infoString3': None}"
+4,24/05/2022,2063171146,1.29228E+12,1695000,,0,Listing removed,The Corcoran Group,,,FALSE,FALSE,"{'infoString1': '1972751', 'infoString2': 'The Corcoran Group', 'infoString3': None}"
+5,17/12/2022,2063171146,1.29151E+12,1695000,,0,Listed for sale,The Corcoran Group,,,FALSE,FALSE,"{'infoString1': '1972751', 'infoString2': 'The Corcoran Group', 'infoString3': None}"
+6,03/10/2023,2063171146,1.28684E+12,1695000,,0,Listing removed,The Corcoran Group,,,FALSE,FALSE,"{'infoString1': '1972751', 'infoString2': 'The Corcoran Group', 'infoString3': None}"
+7,07/02/2022,2066519547,1.28408E+12,1695000,,0.788757737,Listed for sale,The Corcoran Group,,,FALSE,FALSE,"{'infoString1': '1972751', 'infoString2': 'The Corcoran Group', 'infoString3': None}"
+8,03/05/2022,2066519547,1.18843E+12,947585,,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,19/07/2022,2066519547,1.69586E+12,399000,,1.403614458,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '10391200985', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,05/12/2022,2066519547,1.1594E+12,166000,,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,11/04/2023,2066519547,1.69586E+12,1950000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,20/06/2023,2066519547,1.69586E+12,2150000,1433,0.653846154,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '1410272280123791465', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,07/08/2023,2066519547,1.69327E+12,,,0,Listing removed,Zillow Rentals,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Zillow Rentals', 'infoString3': None}"
+2,03/10/2023,2066519547,1.69232E+12,9300,6,-0.010638298,Price change,Zillow Rentals,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Zillow Rentals', 'infoString3': None}"
+3,02/03/2021,2073108029,1.69093E+12,9400,6,-0.010526316,Price change,Zillow Rentals,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Zillow Rentals', 'infoString3': None}"
+4,25/05/2021,2073108029,1.69024E+12,9500,6,0.061452514,Listed for rent,Zillow Rentals,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Zillow Rentals', 'infoString3': None}"
+5,24/10/2021,2073108029,1.66303E+12,,,0,Listing removed,Zillow Rental Network_1,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}"
+6,17/11/2021,2073108029,1.66147E+12,8950,6,-0.027173913,Price change,Zillow Rental Network_1,,,FALSE,TRUE,"{'infoString1': '', 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}"
+7,03/02/2022,2073108029,1.66018E+12,9200,6,-0.075376884,Price change,Zillow Rental Network_1,,,FALSE,TRUE,"{'infoString1': '', 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}"
+8,14/10/2022,2073108029,1.65845E+12,9950,7,-0.052380952,Price change,Zillow Rental Network_1,,,FALSE,TRUE,"{'infoString1': '', 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}"
+9,26/10/2022,2073108029,1.65793E+12,10500,7,-0.045454545,Price change,Zillow Rental Network_1,,,FALSE,TRUE,"{'infoString1': '', 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}"
+10,30/01/2023,2073108029,1.65586E+12,11000,7,0.466666667,Listed for rent,Zillow Rental Network_1,,,FALSE,TRUE,"{'infoString1': '', 'infoString2': 'Zillow Rental Network_1', 'infoString3': None}"
+11,31/03/2023,2073108029,1.61862E+12,,,0,Listing removed,Douglas Elliman,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': 'https://photos.zillowstatic.com/fp/516348e93397d0c5ef994a809e58da18-zillow_web_logo_inf_11.jpg'}"
+12,19/06/2023,2073108029,1.61663E+12,7500,5,-0.050632911,Price change,Douglas Elliman,,,FALSE,TRUE,"{'infoString1': '', 'infoString2': 'Douglas Elliman', 'infoString3': 'https://photos.zillowstatic.com/fp/516348e93397d0c5ef994a809e58da18-zillow_web_logo_inf_11.jpg'}"
+13,03/10/2023,2073108029,1.61585E+12,7900,5,0,Listed for rent,Douglas Elliman,,,FALSE,TRUE,"{'infoString1': '', 'infoString2': 'Douglas Elliman', 'infoString3': 'https://photos.zillowstatic.com/fp/516348e93397d0c5ef994a809e58da18-zillow_web_logo_inf_11.jpg'}"
+14,18/01/2021,2075689237,1.27293E+12,1300000,867,4.383022774,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+15,13/04/2021,2075689237,9.04262E+11,241500,161,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,12/07/2021,2075689237,1.69586E+12,475000,1583,0.117647059,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '1410273940993276657', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,01/10/2023,2075689237,1.60445E+12,425000,1417,0,Listing removed,Compass,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+2,03/08/2020,2078414560,1.60125E+12,425000,1417,-0.053452116,Price change,Compass,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+3,25/09/2020,2078414560,1.57836E+12,449000,1497,-0.183636364,Listed for sale,Compass,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Compass', 'infoString3': None}"
+4,25/09/2020,2078414560,1.53792E+12,550000,1833,0,Listing removed,Halstead Real Estate,,,FALSE,FALSE,"{'infoString1': '18518473', 'infoString2': 'Halstead Real Estate', 'infoString3': None}"
+5,02/11/2020,2078414560,1.52885E+12,550000,1833,0,Listed for sale,Halstead Property,,,FALSE,FALSE,"{'infoString1': '18518473', 'infoString2': 'Halstead Property', 'infoString3': None}"
+6,28/09/2023,2078414560,1.4853E+12,550000,1833,0,Listing removed,Halstead Property,,,FALSE,FALSE,"{'infoString1': '15026881', 'infoString2': 'Halstead Property', 'infoString3': None}"
+7,15/05/2020,2079594519,1.46655E+12,550000,1833,0.86440678,Listed for sale,Halstead Property,,,FALSE,FALSE,"{'infoString1': '15026881', 'infoString2': 'Halstead Property', 'infoString3': None}"
+8,21/05/2020,2079594519,1.1594E+12,295000,983,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,29/06/2020,2079594519,1.69586E+12,13950000,3402,1.846938776,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '1410266402084603833', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,28/07/2020,2079594519,9.45907E+11,4900000,1195,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,16/12/2020,2079594519,1.69586E+12,3895000,1347,-0.201025641,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '22701418', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,25/12/2020,2079594519,1.60428E+12,14500,5,0,Listing removed,Douglas Elliman,,,FALSE,TRUE,"{'infoString1': '4459538', 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+2,28/03/2023,2079594519,1.60099E+12,14500,5,0,Listed for rent,Douglas Elliman,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+3,18/04/2023,2079594519,1.60099E+12,4875000,1686,0,Listing removed,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+4,25/08/2023,2079594519,1.59641E+12,4875000,1686,0,Listed for sale,Douglas Elliman,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Douglas Elliman', 'infoString3': None}"
+0,29/09/2023,2079594519,1.69586E+12,650000,973,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,17/03/2020,2080484098,1.688E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,26/04/2021,2080484098,1.68229E+12,650000,973,-0.064748201,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,10/03/2022,2080484098,1.67892E+12,695000,1040,-0.04137931,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,02/05/2022,2080484098,1.67676E+12,725000,1085,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,27/06/2022,2080484098,1.69586E+12,7850000,1506,0.068027211,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '0000', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,26/08/2022,2080484098,1.68895E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,15/03/2023,2080484098,1.68506E+12,7350000,1410,-0.063694268,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,02/05/2023,2080484098,1.68057E+12,7850000,1506,-0.018136335,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,04/07/2023,2080484098,1.67288E+12,7995000,1534,-0.059411765,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+5,02/10/2023,2080484098,1.67098E+12,8500000,1631,-0.04494382,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+6,14/07/2019,2083565774,1.66778E+12,8900000,1707,-0.063157895,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+7,16/07/2019,2083565774,1.66717E+12,9500000,1822,-0.095238095,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+8,04/08/2022,2083565774,1.66545E+12,10500000,2014,0.060606061,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+9,07/09/2022,2083565774,1.65897E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+10,23/10/2022,2083565774,1.6575E+12,9900000,1899,-0.057142857,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+11,30/05/2023,2083565774,1.65663E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+12,22/06/2023,2083565774,1.65205E+12,10500000,2014,-0.086559374,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+13,12/07/2023,2083565774,1.64938E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+14,03/08/2023,2083565774,1.63426E+12,11495000,2205,-0.042083333,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+15,28/09/2023,2083565774,1.6206E+12,12000000,2302,1199999,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+16,29/09/2023,2083565774,1.37644E+12,10,0,-0.999999375,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+17,12/04/2016,2099010322,1.32719E+12,16000000,3069,0,Listing removed,The Corcoran Group,,,FALSE,FALSE,"{'infoString1': '2226524', 'infoString2': 'The Corcoran Group', 'infoString3': None}"
+18,02/06/2016,2099010322,1.31268E+12,16000000,3069,5.956521739,Listed for sale,The Corcoran Group,,,FALSE,FALSE,"{'infoString1': '2226524', 'infoString2': 'The Corcoran Group', 'infoString3': None}"
+19,07/03/2018,2099010322,1.1594E+12,2300000,441,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+20,01/06/2018,2099010322,1.14558E+12,2300000,441,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,29/09/2023,2099010322,1.69586E+12,299000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+0,27/10/2015,2100746801,1.69595E+12,6500000,,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,18/02/2016,2100746801,1.68782E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,15/09/2016,2100746801,1.68359E+12,6500000,,-0.103448276,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,09/03/2017,2100746801,1.68134E+12,7250000,,-0.061488673,Price change,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,20/06/2017,2100746801,1.67754E+12,7725000,,0.980769231,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+5,19/12/2018,2100746801,1.1594E+12,3900000,,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,21/04/2023,2100746801,1.69586E+12,6900000,9857,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,29/06/2023,2100746801,1.68921E+12,,,0,Listing removed,StreetEasy,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,25/08/2023,2100746801,1.68601E+12,6900000,9857,16.69230769,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,02/10/2023,2100746801,1.44236E+12,390000,557,0,Sold,Public Record,,,FALSE,FALSE,"{'infoString1': None, 'infoString2': 'Public Record', 'infoString3': None}"
+0,05/04/2013,2113492670,1.69586E+12,400000,667,0,Listed for sale,StreetEasy,,,FALSE,FALSE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+1,23/04/2013,2113492670,1.61983E+12,,,0,Listing removed,StreetEasy,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+2,25/04/2015,2113492670,1.61905E+12,1600,3,-0.058823529,Listed for rent,StreetEasy,,,FALSE,TRUE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+3,06/05/2015,2113492670,1.61663E+12,,,0,Listing removed,StreetEasy,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'StreetEasy', 'infoString3': None}"
+4,19/06/2015,2113492670,1.61516E+12,1700,3,-0.028571429,Price change,StreetEasy,,,FALSE,TRUE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+5,17/05/2017,2113492670,1.61412E+12,1750,3,-0.102564103,Listed for rent,StreetEasy,,,FALSE,TRUE,"{'infoString1': '', 'infoString2': 'StreetEasy', 'infoString3': None}"
+6,14/07/2017,2113492670,1.60142E+12,1950,3,0,Listing removed,Manhattan Flats,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Manhattan Flats', 'infoString3': None}"
+7,07/08/2017,2113492670,1.60065E+12,1950,3,-0.093023256,Listed for rent,Manhattan Flats,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Manhattan Flats', 'infoString3': None}"
+8,01/09/2017,2113492670,1.58363E+12,2150,4,0,Listing removed,Alpha Properties NYC I LLC,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Alpha Properties NYC I LLC', 'infoString3': None}"
+9,02/10/2023,2113492670,1.58147E+12,2150,4,-0.020501139,Price change,Alpha Properties NYC I LLC,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Alpha Properties NYC I LLC', 'infoString3': None}"
+10,03/10/2023,2113492670,1.5806E+12,2195,4,-0.024444444,Price change,Manhattan Flats,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Manhattan Flats', 'infoString3': None}"
+11,21/06/2008,2143944031,1.57922E+12,2250,4,0,Listed for rent,Manhattan Flats,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Manhattan Flats', 'infoString3': None}"
+12,02/07/2008,2143944031,1.54682E+12,2250,4,0,Listing removed,Manhattan Flats,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Manhattan Flats', 'infoString3': None}"
+13,14/03/2023,2143944031,1.54665E+12,2250,4,-0.042553191,Price change,Manhattan Flats,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Manhattan Flats', 'infoString3': None}"
+14,03/10/2023,2143944031,1.54647E+12,2350,4,0,Listed for rent,Manhattan Flats,,,FALSE,TRUE,"{'infoString1': None, 'infoString2': 'Manhattan Flats', 'infoString3': None}"
